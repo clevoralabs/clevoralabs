@@ -1,123 +1,141 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Clevora Labs</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clevora Labs | Apps Inteligentes</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap">
+    <style>
+        :root {
+            --primary-blue: #58a6ff; /* El azul neón de tu bombilla */
+            --dark-bg: #0d1117;     /* Fondo profundo para que resalten los circuitos */
+            --card-bg: #161b22;
+            --accent-purple: #7c3aed;
+        }
 
-<style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--dark-bg);
+            color: #e6edf3;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
 
-body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  background: #0A0A0F;
-  color: #F0EEE8;
-  line-height: 1.7;
-  padding: 40px 20px;
-}
+        /* Hero con tu Banner */
+        .hero {
+            background: linear-gradient(rgba(13, 17, 23, 0.6), rgba(13, 17, 23, 0.9)), 
+                        url('Gemini_Generated_Image_1vzknz1vzknz1vzk.jpg') no-repeat center center/cover;
+            padding: 80px 20px;
+            text-align: center;
+            border-bottom: 2px solid var(--primary-blue);
+        }
 
-.container {
-  max-width: 720px;
-  margin: 0 auto;
-}
+        .hero img {
+            width: 120px;
+            border-radius: 50%;
+            border: 3px solid var(--primary-blue);
+            box-shadow: 0 0 20px rgba(88, 166, 255, 0.4);
+            margin-bottom: 1.5rem;
+        }
 
-header {
-  margin-bottom: 40px;
-}
+        .hero h1 {
+            font-size: 3rem;
+            margin: 0;
+            letter-spacing: -1px;
+            background: linear-gradient(to right, #fff, var(--primary-blue));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
 
-header h1 {
-  color: #FFB830;
-  font-size: 28px;
-  margin-bottom: 8px;
-}
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            flex: 1;
+        }
 
-header p {
-  color: #8A8898;
-  font-size: 14px;
-}
+        .section-card {
+            background: var(--card-bg);
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 25px;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
 
-section {
-  margin-bottom: 40px;
-}
+        .section-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary-blue);
+        }
 
-h2 {
-  color: #FFB830;
-  font-size: 18px;
-  margin-bottom: 12px;
-}
+        h2 { color: var(--primary-blue); margin-top: 0; }
 
-p {
-  color: #C0BEB8;
-  margin-bottom: 12px;
-}
+        .contact-links a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            border-bottom: 2px solid var(--primary-blue);
+            padding-bottom: 2px;
+        }
 
-ul {
-  list-style: none;
-  padding-left: 0;
-  color: #C0BEB8;
-}
+        .btn-privacy {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background: transparent;
+            color: var(--primary-blue);
+            border: 1px solid var(--primary-blue);
+            border-radius: 6px;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
 
-li {
-  margin-bottom: 6px;
-}
+        .btn-privacy:hover {
+            background: var(--primary-blue);
+            color: var(--dark-bg);
+        }
 
-a {
-  color: #FFB830;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-footer {
-  margin-top: 60px;
-  padding-top: 20px;
-  border-top: 1px solid #2A2A36;
-  color: #4A4A5A;
-  font-size: 13px;
-  text-align: center;
-}
-</style>
-
+        footer {
+            text-align: center;
+            padding: 40px;
+            font-size: 0.85rem;
+            color: #8b949e;
+        }
+    </style>
 </head>
-
 <body>
 
-<div class="container">
+    <header class="hero">
+        <img src="clevoralabs_icono.png" alt="Clevora Labs Logo">
+        <h1>Clevora Labs</h1>
+        <p>Apps inteligentes para tu día a día</p>
+    </header>
 
-<header>
-  <h1>Clevora Labs</h1>
-  <p>Apps inteligentes para tu día a día</p>
-</header>
+    <main class="container">
+        <section class="section-card">
+            <h2>Nuestras Apps</h2>
+            <p style="font-style: italic; opacity: 0.7;">(Próximamente)</p>
+        </section>
 
-<main>
+        <section class="section-card">
+            <h2>Contacto</h2>
+            <p>Escríbenos a: <a href="mailto:support@clevoralabs.com" style="color: var(--primary-blue);">support@clevoralabs.com</a></p>
+            <p>También puedes visitarnos en <a href="https://github.com/clevoralabs" target="_blank" style="color: var(--primary-blue);">GitHub</a></p>
+        </section>
 
-<section id="apps">
-  <h2>Nuestras Apps</h2>
-  <ul>
-    <li><strong>(Próximamente)</strong></li>
-  </ul>
-</section>
+        <section class="section-card" style="border: none; background: transparent;">
+            <h2>Política de Privacidad</h2>
+            <p>Puedes acceder a nuestra política de privacidad haciendo clic abajo:</p>
+            <a href="privacy.html" class="btn-privacy">Ver Política</a>
+        </section>
+    </main>
 
-<section id="contacto">
-  <h2>Contacto</h2>
-  <p>Escríbenos a: <a href="mailto:support@clevoralabs.com">support@clevoralabs.com</a></p>
-  <p>También puedes visitarnos en <a href="https://github.com/clevoralabs" target="_blank">GitHub</a></p>
-</section>
-
-<section id="privacidad">
-  <h2>Política de Privacidad</h2>
-  <p>Puedes acceder a nuestra política de privacidad <a href="/privacy.html">aquí</a></p>
-</section>
-
-</main>
-
-<footer>
-  &copy; 2026 Clevora Labs. Todos los derechos reservados.
-</footer>
-
-</div>
+    <footer>
+        &copy; 2026 Clevora Labs. AI Solutions for Everyday Life.
+    </footer>
 
 </body>
 </html>
