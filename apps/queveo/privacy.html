@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Política de Privacidad - QuéVeo | Clevora Labs</title>
+    <title>Política de Privacidad / Privacy Policy - QuéVeo</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap">
     <style>
         :root {
@@ -12,7 +12,6 @@
             --card-bg: #161b22;
             --text-main: #e6edf3;
             --text-dim: #8b949e;
-            --accent-purple: #7c3aed;
         }
 
         body {
@@ -23,10 +22,8 @@
             line-height: 1.6;
         }
 
-        /* Header con Banner */
         .mini-hero {
-            background: linear-gradient(rgba(13, 17, 23, 0.85), rgba(13, 17, 23, 0.95)), 
-                        url('Gemini_Generated_Image_1vzknz1vzknz1vzk.jpg') no-repeat center center/cover;
+            background: linear-gradient(rgba(13, 17, 23, 0.85), rgba(13, 17, 23, 0.95));
             padding: 40px 20px;
             text-align: center;
             border-bottom: 2px solid var(--primary-blue);
@@ -40,45 +37,37 @@
         }
 
         .container {
-            max-width: 800px;
+            max-width: 1200px;
             margin: 30px auto;
             padding: 0 20px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            align-items: start;
         }
 
-        .back-link {
-            display: inline-block;
-            margin-bottom: 20px;
-            color: var(--primary-blue);
-            text-decoration: none;
-            font-size: 0.9rem;
-            font-weight: 600;
+        @media (max-width: 900px) {
+            .container { grid-template-columns: 1fr; }
         }
 
         .legal-card {
             background: var(--card-bg);
             border: 1px solid #30363d;
             border-radius: 16px;
-            padding: 40px;
+            padding: 35px;
             box-shadow: 0 10px 30px rgba(0,0,0,0.5);
         }
 
-        h1 { font-size: 1.8rem; margin: 0 0 10px 0; color: #fff; }
-        .subtitle { color: var(--primary-blue); font-weight: 600; margin-bottom: 30px; display: block; }
+        h1 { font-size: 1.6rem; color: #fff; margin-bottom: 10px; }
+        h2 { color: var(--primary-blue); font-size: 1.25rem; margin-top: 2.2rem; border-bottom: 1px solid #30363d; padding-bottom: 8px; }
+        .subtitle { color: var(--primary-blue); font-weight: 600; font-size: 0.9rem; display: block; margin-bottom: 20px; }
         
-        h2 { 
-            color: var(--primary-blue); 
-            font-size: 1.3rem; 
-            margin-top: 2.5rem; 
-            border-bottom: 1px solid #30363d; 
-            padding-bottom: 8px;
-        }
-
-        p, li { color: var(--text-main); font-size: 1rem; }
+        p, li { font-size: 0.95rem; color: var(--text-main); }
         ul { padding-left: 20px; }
         li { margin-bottom: 8px; }
-
+        
         strong { color: #fff; }
-
+        
         .highlight-box {
             background: rgba(88, 166, 255, 0.1);
             border-left: 4px solid var(--primary-blue);
@@ -103,15 +92,14 @@
 <body>
 
     <header class="mini-hero">
-        <a href="index.html"><img src="clevoralabs_icono.png" alt="Clevora Labs"></a>
-        <h1>Política de Privacidad</h1>
+        <img src="clevoralabs_icono.png" alt="Clevora Labs">
+        <h1>Política de Privacidad / Privacy Policy</h1>
     </header>
 
-    <main class="container">
-        <a href="index.html" class="back-link">← Volver a Clevora Labs</a>
+    <div class="container">
         
         <article class="legal-card">
-            <span class="subtitle">QuéVeo · Última actualización: marzo de 2026</span>
+            <span class="subtitle">QuéVeo · Última actualización: abril de 2026</span>
             
             <p><strong>QuéVeo</strong> es una aplicación diseñada con la privacidad como principio. Tus preferencias, historial y valoraciones se almacenan exclusivamente en tu dispositivo. No existe registro de usuario ni inicio de sesión.</p>
 
@@ -133,47 +121,107 @@
             </div>
 
             <h2>3. Servicios externos utilizados</h2>
-            <p>Para ofrecer sus servicios, QuéVeo se conecta a los siguientes servicios de terceros:</p>
+            <p>Para funcionar, QuéVeo se conecta a los siguientes servicios de terceros:</p>
             <ul>
                 <li><strong>The Movie Database (TMDb):</strong> Se consulta su API pública para obtener información sobre películas y series. Solo se envía la consulta de búsqueda, nunca datos personales.</li>
                 <li><strong>Google Gemini API:</strong> Se envía un perfil de preferencias anonimizado para generar recomendaciones personalizadas. No se incluyen datos identificativos.</li>
                 <li><strong>Firebase Analytics (Google):</strong> Recopila datos de uso anónimos como pantallas visitadas, eventos de interacción, idioma, versión de SO y país.</li>
-                <li><strong>Firebase Crashlytics (Google):</strong> En caso de error, recopila información técnica sobre el fallo para permitirnos corregirlo, siempre de manera anónima.</li>
-                <li><strong>Google AdMob (Publicidad):</strong> Utilizamos Google AdMob para mostrar anuncios. Para ello, el SDK de AdMob recopila y utiliza el ID de publicidad de Android (AAID). Este identificador permite a Google mostrar anuncios relevantes para el usuario, limitar el número de veces que se ve un mismo anuncio, combatir el fraude y abuso y realizar mediciones de rendimiento de los anuncios.</li>
+                <li><strong>Firebase Crashlytics (Google):</strong> En caso de error, recopila información técnica sobre el fallo para permitirnos corregirlo.</li>
             </ul>
 
-            <h2>4. Datos que recopilamos</h2>
+            <h2>4. Datos que NO recopilamos</h2>
             <ul>
-                <li>No recopilamos nombre, email ni ningún dato de identificación personal.</li>
-                <li>No existe registro ni inicio de sesión.</li>
-                <li><strong>ID de Publicidad:</strong> Se utiliza exclusivamente para la gestión de anuncios a través de AdMob.</li>
-                <li><strong>Datos de uso:</strong> Información técnica sobre el dispositivo y navegación anónima para mejora del servicio.</li>
+                <li>No recopilamos nombre, email ni ningún dato de identificación personal</li>
+                <li>No existe registro ni inicio de sesión</li>
+                <li>No mostramos publicidad</li>
+                <li>No vendemos ni cedemos datos a terceros</li>
+                <li>No recopilamos datos de localización</li>
             </ul>
 
-            <h2>5. Control y Publicidad Personalizada</h2>
-            <p>Como usuario/a, tienes el control total sobre los anuncios:</p>
+            <h2>5. Base legal para el tratamiento de datos (RGPD)</h2>
+            <p>El uso de Firebase Analytics y Crashlytics se basa en el interés legítimo del desarrollador para mantener y mejorar la aplicación. Los datos recogidos son anónimos.</p>
+
+            <h2>6. Menores de edad</h2>
+            <p>QuéVeo no está dirigida específicamente a menores de 13 años. Al no requerir registro, no existe riesgo asociado al uso por parte de menores.</p>
+
+            <h2>7. Tus derechos</h2>
+            <p>Dado que todos los datos se almacenan localmente, tienes control total:</p>
             <ul>
-                <li><strong>Desactivación de anuncios personalizados:</strong> Puedes restablecer tu ID de publicidad o desactivar la personalización de anuncios en los ajustes de tu dispositivo: Ajustes > Google > Anuncios.</li>
-                <li>Más información: Puedes consultar cómo utiliza Google la información en <a href="https://policies.google.com/technologies/partner-sites" target="_blank">https://policies.google.com/technologies/partner-sites</a></li>
+                <li><strong>Acceso y eliminación:</strong> Puedes eliminar todos los datos desinstalando la aplicación.</li>
+                <li><strong>Portabilidad:</strong> Los datos residen en tu dispositivo y no están en ningún servidor externo.</li>
             </ul>
 
-            <h2>6. Base legal para el tratamiento de datos (RGPD)</h2>
-            <p>El tratamiento de datos para análisis y publicidad se basa en el <strong>interés legítimo</strong> para el mantenimiento económico y la mejora técnica de la aplicación, garantizando siempre la opción de "opt-out" del usuario a través de los ajustes de su terminal.</p>
-
-            <h2>7. Menores de edad</h2>
-            <p>QuéVeo no está dirigida específicamente a menores de 13 años. Los anuncios mostrados a través de AdMob cumplen con las políticas de contenido de Google Play para su categoría.</p>
-
-            <h2>8. Tus derechos</h2>
-            <p>Al almacenarse los datos localmente, puedes eliminarlos desinstalando la aplicación. Para cualquier duda sobre el uso del ID de publicidad, contacta con nosotros.</p>
+            <h2>8. Cambios en esta política</h2>
+            <p>Si en el futuro introducimos cambios, actualizaremos esta página e informaremos a los usuarios a través de la propia aplicación.</p>
 
             <h2>9. Contacto</h2>
-            <p>Para cualquier duda o pregunta puedes ponerte en contacto con nostros en la siguiente dirección: <a href="mailto:privacy@clevoralabs.com">privacy@clevoralabs.com</a></p>
+            <p>Para cualquier pregunta sobre esta política de privacidad: <a href="mailto:privacy@clevoralabs.com">privacy@clevoralabs.com</a></p>
         </article>
-    </main>
+
+        <article class="legal-card">
+            <span class="subtitle">QuéVeo · Last updated: April 2026</span>
+            
+            <p><strong>QuéVeo</strong> is an application designed with privacy as a principle. Your preferences, history, and ratings are stored exclusively on your device. There is no user registration or login.</p>
+
+            <h2>1. Who is responsible</h2>
+            <p>This application is developed and maintained by <strong>Clevora Labs</strong> independently. For any privacy-related inquiries, you can contact us at: <a href="mailto:privacy@clevoralabs.com">privacy@clevoralabs.com</a></p>
+
+            <h2>2. What data is stored and where</h2>
+            <p>QuéVeo stores the following information <strong>only on your device</strong>, using the application's local database:</p>
+            <ul>
+                <li>Your movie genre preferences</li>
+                <li>The streaming platforms you have indicated</li>
+                <li>Your saved titles list (watchlist)</li>
+                <li>The ratings you have given to movies and series</li>
+                <li>The history of generated recommendations</li>
+                <li>Duration and content type preferences</li>
+            </ul>
+            <div class="highlight-box">
+                This data <strong>is not synchronized with any external server</strong> and disappears if you uninstall the application.
+            </div>
+
+            <h2>3. External services used</h2>
+            <p>To function, QuéVeo connects to the following third-party services:</p>
+            <ul>
+                <li><strong>The Movie Database (TMDb):</strong> Its public API is consulted to obtain information about movies and series. Only the search query is sent, never personal data.</li>
+                <li><strong>Google Gemini API:</strong> An anonymized preference profile is sent to generate personalized recommendations. No identifying data is included.</li>
+                <li><strong>Firebase Analytics (Google):</strong> Collects anonymous usage data such as screens visited, interaction events, language, OS version, and country.</li>
+                <li><strong>Firebase Crashlytics (Google):</strong> In case of an error, it collects technical information about the crash to allow us to fix it.</li>
+            </ul>
+
+            <h2>4. Data we DO NOT collect</h2>
+            <ul>
+                <li>We do not collect names, emails, or any personally identifiable information</li>
+                <li>There is no registration or login</li>
+                <li>We do not show advertisements</li>
+                <li>We do not sell or transfer data to third parties</li>
+                <li>We do not collect location data</li>
+            </ul>
+
+            <h2>5. Legal basis for data processing (GDPR)</h2>
+            <p>The use of Firebase Analytics and Crashlytics is based on the developer's legitimate interest to maintain and improve the application. The data collected is anonymous.</p>
+
+            <h2>6. Minors</h2>
+            <p>QuéVeo is not specifically directed at children under 13. Since it does not require registration, there is no risk associated with use by minors.</p>
+
+            <h2>7. Your rights</h2>
+            <p>Since all data is stored locally, you have full control:</p>
+            <ul>
+                <li><strong>Access and deletion:</strong> You can delete all data by uninstalling the application.</li>
+                <li><strong>Portability:</strong> Data resides on your device and is not on any external server.</li>
+            </ul>
+
+            <h2>8. Changes to this policy</h2>
+            <p>If we introduce changes in the future, we will update this page and inform users through the application itself.</p>
+
+            <h2>9. Contact</h2>
+            <p>For any questions about this privacy policy: <a href="mailto:privacy@clevoralabs.com">privacy@clevoralabs.com</a></p>
+        </article>
+
+    </div>
 
     <footer>
-        QuéVeo · Política de Privacidad · Última actualización: marzo de 2026<br>
-        &copy; 2026 Clevora Labs.
+        QuéVeo · Política de Privacidad / Privacy Policy · &copy; 2026 Clevora Labs.
     </footer>
 
 </body>
