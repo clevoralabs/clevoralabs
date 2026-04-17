@@ -1,0 +1,44 @@
+[
+  {
+    "tmdb_id": 438631,
+    "title": "Dune",
+    "media_type": "movie",
+    "expires_at": "2026-04-30",
+    "platforms": ["Netflix"]
+  },
+  {
+    "tmdb_id": 667538,
+    "title": "Drive My Car",
+    "media_type": "movie",
+    "expires_at": "2026-04-25",
+    "platforms": ["Filmin"]
+  },
+  {
+    "tmdb_id": 807172,
+    "title": "The Menu",
+    "media_type": "movie",
+    "expires_at": "2026-04-30",
+    "platforms": ["Disney+"]
+  },
+  {
+    "tmdb_id": 603,
+    "title": "The Matrix",
+    "media_type": "movie",
+    "expires_at": "2026-04-30",
+    "platforms": ["HBO Max"]
+  },
+  {
+    "tmdb_id": 585083,
+    "title": "Hotel Transylvania: Transformania",
+    "media_type": "movie",
+    "expires_at": "2026-05-01",
+    "platforms": ["Prime Video"]
+  },
+  {
+    "tmdb_id": 105,
+    "title": "Back to the Future",
+    "media_type": "movie",
+    "expires_at": "2026-04-30",
+    "platforms": ["Netflix"]
+  }
+]
