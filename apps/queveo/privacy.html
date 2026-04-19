@@ -115,6 +115,7 @@
                 <li>Las valoraciones que has dado a películas y series</li>
                 <li>El historial de recomendaciones generadas</li>
                 <li>Preferencias de duración y tipo de contenido</li>
+                <li>Tokens de notificación. Para el envío de notificaciones push sobre títulos que caducan, la aplicación genera un token único asociado a su dispositivo. Este identificador se utiliza exclusivamente para la gestión de las notificaciones push y no se utiliza para identificarle personalmente ni se vincula con otros datos.</li>
             </ul>
             <div class="highlight-box">
                 Estos datos <strong>no se sincronizan con ningún servidor externo</strong> y desaparecen si desinstalas la aplicación.
@@ -127,6 +128,7 @@
                 <li><strong>Google Gemini API:</strong> Se envía un perfil de preferencias anonimizado para generar recomendaciones personalizadas. No se incluyen datos identificativos.</li>
                 <li><strong>Firebase Analytics (Google):</strong> Recopila datos de uso anónimos como pantallas visitadas, eventos de interacción, idioma, versión de SO y país.</li>
                 <li><strong>Firebase Crashlytics (Google):</strong> En caso de error, recopila información técnica sobre el fallo para permitirnos corregirlo.</li>
+                <li><strong>Firebase Cloud Messaging (FCM):</strong> Servicio utilizado para el envío de notificaciones push sobre la disponibilidad y expiración de contenidos. Este servicio gestiona los tokens necesarios para que el mensaje llegue a tu dispositivo.</li>
             </ul>
 
             <h2>4. Datos que NO recopilamos</h2>
@@ -149,6 +151,7 @@
             <ul>
                 <li><strong>Acceso y eliminación:</strong> Puedes eliminar todos los datos desinstalando la aplicación.</li>
                 <li><strong>Portabilidad:</strong> Los datos residen en tu dispositivo y no están en ningún servidor externo.</li>
+                <li><strong>Control de Notificaciones:</strong> Puedes revocar el permiso de notificaciones en cualquier momento desde los ajustes de sistema de Android</li>
             </ul>
 
             <h2>8. Cambios en esta política</h2>
@@ -175,6 +178,7 @@
                 <li>The ratings you have given to movies and series</li>
                 <li>The history of generated recommendations</li>
                 <li>Duration and content type preferences</li>
+                <li>Notification Tokens: To send you alerts about expiring content, the application generates a unique registration token associated with your device. This identifier is used exclusively for managing push notifications and is not used to personally identify you or linked to any other data.</li>
             </ul>
             <div class="highlight-box">
                 This data <strong>is not synchronized with any external server</strong> and disappears if you uninstall the application.
@@ -187,6 +191,7 @@
                 <li><strong>Google Gemini API:</strong> An anonymized preference profile is sent to generate personalized recommendations. No identifying data is included.</li>
                 <li><strong>Firebase Analytics (Google):</strong> Collects anonymous usage data such as screens visited, interaction events, language, OS version, and country.</li>
                 <li><strong>Firebase Crashlytics (Google):</strong> In case of an error, it collects technical information about the crash to allow us to fix it.</li>
+                <li><strong>Firebase Cloud Messaging (FCM):</strong> Service used to send notifications regarding content availability and expiration. This service manages the necessary tokens to ensure messages reach your device.</li>
             </ul>
 
             <h2>4. Data we DO NOT collect</h2>
@@ -209,6 +214,7 @@
             <ul>
                 <li><strong>Access and deletion:</strong> You can delete all data by uninstalling the application.</li>
                 <li><strong>Portability:</strong> Data resides on your device and is not on any external server.</li>
+                <li><strong>Notification Control:</strong> You can revoke notification permissions at any time through your Android system settings.</li>
             </ul>
 
             <h2>8. Changes to this policy</h2>
