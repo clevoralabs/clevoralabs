@@ -1,75 +1,11 @@
 [
   {
-    "title": "El libro de Clarence",
-    "year": 2023,
-    "expiry_date": "2026-04-22",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 967847
-  },
-  {
-    "title": "El niño con el pijama de rayas",
-    "year": 2008,
-    "expiry_date": "2026-04-22",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 14537
-  },
-  {
-    "title": "Héroes: Silencio y rock & roll",
-    "year": 2021,
-    "expiry_date": "2026-04-22",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 797584
-  },
-  {
     "title": "Alvin y las ardillas",
     "year": 2007,
     "expiry_date": "2026-04-25",
     "type": "movie",
     "platform": "Netflix",
     "tmdb_id": 6477
-  },
-  {
-    "title": "Alvin y las ardillas 2",
-    "year": 2009,
-    "expiry_date": "2026-04-25",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 22530
-  },
-  {
-    "title": "Alvin y las ardillas 3",
-    "year": 2011,
-    "expiry_date": "2026-04-25",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 71676
-  },
-  {
-    "title": "Alvin y las ardillas: Fiesta sobre ruedas",
-    "year": 2015,
-    "expiry_date": "2026-04-25",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 313297
-  },
-  {
-    "title": "Bajo el muelle",
-    "year": 2022,
-    "expiry_date": "2026-04-26",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 869626
-  },
-  {
-    "title": "Maixabel",
-    "year": 2021,
-    "expiry_date": "2026-04-26",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 781732
   },
   {
     "title": "Amigos imaginarios",
@@ -88,19 +24,11 @@
     "tmdb_id": 137113
   },
   {
-    "title": "Appaloosa",
-    "year": 2008,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 12555
-  },
-  {
     "title": "Asalto al poder",
     "year": 2013,
     "expiry_date": "2026-04-30",
     "type": "movie",
-    "platform": "Netflix",
+    "platform": "Netflix",ll
     "tmdb_id": 117251
   },
   {
@@ -110,22 +38,6 @@
     "type": "movie",
     "platform": "Netflix",
     "tmdb_id": 424694
-  },
-  {
-    "title": "Corazón de tinta",
-    "year": 2008,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 10003
-  },
-  {
-    "title": "Dicen por ahí...",
-    "year": 2005,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 10185
   },
   {
     "title": "Dune",
@@ -142,22 +54,6 @@
     "type": "movie",
     "platform": "Netflix",
     "tmdb_id": 591
-  },
-  {
-    "title": "El Gato con Botas",
-    "year": 2011,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 41785
-  },
-  {
-    "title": "El lago azul: El despertar",
-    "year": 2012,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 111956
   },
   {
     "title": "El número 23",
@@ -182,14 +78,6 @@
     "type": "movie",
     "platform": "Netflix",
     "tmdb_id": 75780
-  },
-  {
-    "title": "Jack Reacher: Nunca vuelvas atrás",
-    "year": 2016,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 340666
   },
   {
     "title": "La novia cadáver",
@@ -256,14 +144,6 @@
     "tmdb_id": 10192
   },
   {
-    "title": "Sin identidad",
-    "year": 2011,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 48891
-  },
-  {
     "title": "Uno de los nuestros",
     "year": 1990,
     "expiry_date": "2026-04-30",
@@ -272,68 +152,12 @@
     "tmdb_id": 769
   },
   {
-    "title": "xXx 2: Estado de emergencia",
-    "year": 2005,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 11566
-  },
-  {
-    "title": "¿Cuándo llegamos?",
-    "year": 2005,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 13695
-  },
-  {
-    "title": "Ángeles y demonios",
-    "year": 2009,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 1874
-  },
-  {
     "title": "La princesita",
     "year": 1995,
     "expiry_date": "2026-05-01",
     "type": "movie",
     "platform": "Netflix",
     "tmdb_id": 19101
-  },
-  {
-    "title": "Terror en la Antártida",
-    "year": 2009,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 23363
-  },
-  {
-    "title": "La casa del lago",
-    "year": 2006,
-    "expiry_date": "2026-05-02",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 2043
-  },
-  {
-    "title": "Amor y otras drogas",
-    "year": 2010,
-    "expiry_date": "2026-05-03",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 43412
-  },
-  {
-    "title": "Jules",
-    "year": 2023,
-    "expiry_date": "2026-05-03",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": 1053013
   },
   {
     "title": "Constantine",
@@ -366,38 +190,6 @@
     "type": "tv",
     "platform": "Netflix",
     "tmdb_id": 66881
-  },
-  {
-    "title": "¡Soy mayor! T2",
-    "year": 2008,
-    "expiry_date": "2026-04-30",
-    "type": "tv",
-    "platform": "Netflix",
-    "tmdb_id": 156891
-  },
-  {
-    "title": "Boys Over Flowers T1",
-    "year": 2009,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "Netflix",
-    "tmdb_id": 16452
-  },
-  {
-    "title": "Iris T1",
-    "year": 2009,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "Netflix",
-    "tmdb_id": 26815
-  },
-  {
-    "title": "NASCAR: A toda velocidad T1 T2",
-    "year": 2024,
-    "expiry_date": "2026-05-06",
-    "type": "tv",
-    "platform": "Netflix",
-    "tmdb_id": 243818
   },
   {
     "title": "Marcus Level T1",
