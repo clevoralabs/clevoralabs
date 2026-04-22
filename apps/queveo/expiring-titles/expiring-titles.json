@@ -195,4 +195,232 @@
     "title": "La novia cadáver",
     "year": 2005,
     "expiry_date": "2026-04-30",
-    "
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 3933
+  },
+  {
+    "title": "Los perdedores",
+    "year": 2010,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 34813
+  },
+  {
+    "title": "Mortal Kombat",
+    "year": 2021,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 460465
+  },
+  {
+    "title": "Robin Hood: Príncipe de los ladrones",
+    "year": 1991,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 8367
+  },
+  {
+    "title": "Shrek",
+    "year": 2001,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 808
+  },
+  {
+    "title": "Shrek 2",
+    "year": 2004,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 809
+  },
+  {
+    "title": "Shrek tercero",
+    "year": 2007,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 810
+  },
+  {
+    "title": "Shrek, felices para siempre - El capítulo final",
+    "year": 2010,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 10192
+  },
+  {
+    "title": "Sin identidad",
+    "year": 2011,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 48891
+  },
+  {
+    "title": "Uno de los nuestros",
+    "year": 1990,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 769
+  },
+  {
+    "title": "xXx 2: Estado de emergencia",
+    "year": 2005,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 11566
+  },
+  {
+    "title": "¿Cuándo llegamos?",
+    "year": 2005,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 13695
+  },
+  {
+    "title": "Ángeles y demonios",
+    "year": 2009,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 1874
+  },
+  {
+    "title": "La princesita",
+    "year": 1995,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 19101
+  },
+  {
+    "title": "Terror en la Antártida",
+    "year": 2009,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 23363
+  },
+  {
+    "title": "La casa del lago",
+    "year": 2006,
+    "expiry_date": "2026-05-02",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 2043
+  },
+  {
+    "title": "Amor y otras drogas",
+    "year": 2010,
+    "expiry_date": "2026-05-03",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 43412
+  },
+  {
+    "title": "Jules",
+    "year": 2023,
+    "expiry_date": "2026-05-03",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 1053013
+  },
+  {
+    "title": "Constantine",
+    "year": 2005,
+    "expiry_date": "2026-05-06",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 561
+  },
+  {
+    "title": "El hombre del norte",
+    "year": 2022,
+    "expiry_date": "2026-05-06",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 639933
+  },
+  {
+    "title": "Terminator: Génesis",
+    "year": 2015,
+    "expiry_date": "2026-05-06",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": 87101
+  },
+  {
+    "title": "Luchemos contra los fantasmas T1",
+    "year": 2021,
+    "expiry_date": "2026-04-21",
+    "type": "tv",
+    "platform": "Netflix",
+    "tmdb_id": 66881
+  },
+  {
+    "title": "¡Soy mayor! T2",
+    "year": 2008,
+    "expiry_date": "2026-04-30",
+    "type": "tv",
+    "platform": "Netflix",
+    "tmdb_id": 156891
+  },
+  {
+    "title": "Boys Over Flowers T1",
+    "year": 2009,
+    "expiry_date": "2026-05-01",
+    "type": "tv",
+    "platform": "Netflix",
+    "tmdb_id": 16452
+  },
+  {
+    "title": "Iris T1",
+    "year": 2009,
+    "expiry_date": "2026-05-01",
+    "type": "tv",
+    "platform": "Netflix",
+    "tmdb_id": 26815
+  },
+  {
+    "title": "NASCAR: A toda velocidad T1 T2",
+    "year": 2024,
+    "expiry_date": "2026-05-06",
+    "type": "tv",
+    "platform": "Netflix",
+    "tmdb_id": 243818
+  },
+  {
+    "title": "Marcus Level T1",
+    "year": 2014,
+    "expiry_date": "2026-05-14",
+    "type": "tv",
+    "platform": "Netflix",
+    "tmdb_id": 106423
+  },
+  {
+    "title": "Los paseos de Bruno T1",
+    "year": 2019,
+    "expiry_date": "2026-05-16",
+    "type": "tv",
+    "platform": "Netflix",
+    "tmdb_id": 88960
+  },
+  {
+    "title": "White Gold T2",
+    "year": 2019,
+    "expiry_date": "2026-05-16",
+    "type": "tv",
+    "platform": "Netflix",
+    "tmdb_id": 71701
+  }
+]
