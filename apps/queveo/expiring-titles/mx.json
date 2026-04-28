@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Oldboy",
+    "year": 2003,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "MUBI",
+    "tmdb_id": "670"
+  },
+  {
+    "title": "Wrong Turn",
+    "year": 2021,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "630586"
+  },
+  {
+    "title": "The Bikeriders",
+    "year": 2024,
+    "expiry_date": "2026-05-03",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "1008409"
+  }
+]
