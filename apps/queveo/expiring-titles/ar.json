@@ -1,14 +1,6 @@
 [
   {
-    "title": "Oldboy",
-    "year": 2003,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "MUBI",
-    "tmdb_id": "670"
-  },
-  {
-    "title": "The Nice Guys",
+    "title": "Dos buenos tipos",
     "year": 2016,
     "expiry_date": "2026-05-01",
     "type": "movie",
@@ -24,7 +16,7 @@
     "tmdb_id": "68722"
   },
   {
-    "title": "The Silence of the Lambs",
+    "title": "El silencio de los corderos",
     "year": 1991,
     "expiry_date": "2026-05-01",
     "type": "movie",
@@ -32,7 +24,47 @@
     "tmdb_id": "274"
   },
   {
-    "title": "Longlegs",
+    "title": "Bob Esponja",
+    "year": 1999,
+    "expiry_date": "2026-05-01",
+    "type": "tv",
+    "platform": "HBO Max",
+    "tmdb_id": "387"
+  },
+  {
+    "title": "Todos los hombres del presidente",
+    "year": 1976,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "891"
+  },
+  {
+    "title": "Tarde de perros",
+    "year": 1975,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "968"
+  },
+  {
+    "title": "Rain man",
+    "year": 1988,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "380"
+  },
+  {
+    "title": "Impacto",
+    "year": 1981,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "11644"
+  },
+  {
+    "title": "Longlegs: Coleccionista De Almas",
     "year": 2024,
     "expiry_date": "2026-05-02",
     "type": "movie",
@@ -40,7 +72,7 @@
     "tmdb_id": "1226578"
   },
   {
-    "title": "The Bikeriders",
+    "title": "Bikeriders: La ley del asfalto",
     "year": 2024,
     "expiry_date": "2026-05-03",
     "type": "movie",
@@ -48,7 +80,15 @@
     "tmdb_id": "1008409"
   },
   {
-    "title": "The Staircase",
+    "title": "Amor y otras drogas",
+    "year": 2010,
+    "expiry_date": "2026-05-04",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "43347"
+  },
+  {
+    "title": "La escalera",
     "year": 2022,
     "expiry_date": "2026-05-05",
     "type": "tv",
@@ -56,11 +96,59 @@
     "tmdb_id": "122196"
   },
   {
-    "title": "Saving Private Ryan",
+    "title": "Salvar al soldado Ryan",
     "year": 1998,
     "expiry_date": "2026-05-13",
     "type": "movie",
     "platform": "Netflix",
     "tmdb_id": "857"
+  },
+  {
+    "title": "Todas las vidas, mi vida",
+    "year": 2009,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "4960"
+  },
+  {
+    "title": "Shutter Island",
+    "year": 2010,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "11324"
+  },
+  {
+    "title": "El señor de los anillos: La comunidad del anillo",
+    "year": 2001,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "120"
+  },
+  {
+    "title": "The Imitation Game (Descifrando Enigma)",
+    "year": 2014,
+    "expiry_date": "2026-05-18",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "205596"
+  },
+  {
+    "title": "Fargo",
+    "year": 2014,
+    "expiry_date": "2026-05-22",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "60622"
+  },
+  {
+    "title": "Heretic (Hereje)",
+    "year": 2024,
+    "expiry_date": "2026-05-23",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1138194"
   }
 ]

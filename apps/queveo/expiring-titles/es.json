@@ -1,14 +1,6 @@
 [
   {
-    "title": "The Devil Wears Prada",
-    "year": 2006,
-    "expiry_date": "2026-04-29",
-    "type": "movie",
-    "platform": "fuboTV",
-    "tmdb_id": "350"
-  },
-  {
-    "title": "Apollo 13",
+    "title": "Apolo 13",
     "year": 1995,
     "expiry_date": "2026-04-30",
     "type": "movie",
@@ -24,12 +16,92 @@
     "tmdb_id": "1408"
   },
   {
-    "title": "Irréversible",
+    "title": "Irreversible",
     "year": 2002,
     "expiry_date": "2026-04-30",
     "type": "movie",
     "platform": "Filmin",
     "tmdb_id": "979"
+  },
+  {
+    "title": "Mulholland Drive",
+    "year": 2001,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "1018"
+  },
+  {
+    "title": "El silencio de los corderos",
+    "year": 1991,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "274"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "13"
+  },
+  {
+    "title": "Un lugar tranquilo",
+    "year": 2018,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "447332"
+  },
+  {
+    "title": "Rain man",
+    "year": 1988,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "380"
+  },
+  {
+    "title": "La escalera de Jacob",
+    "year": 1990,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "2291"
+  },
+  {
+    "title": "El faro",
+    "year": 2019,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "503919"
+  },
+  {
+    "title": "Zombies Party",
+    "year": 2004,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "747"
+  },
+  {
+    "title": "Algunos hombres buenos",
+    "year": 1992,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "881"
+  },
+  {
+    "title": "Martín (Hache)",
+    "year": 1997,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "43429"
   },
   {
     "title": "Kimetsu no Yaiba",
@@ -40,11 +112,67 @@
     "tmdb_id": "85937"
   },
   {
-    "title": "Interstellar",
+    "title": "Interestellar",
     "year": 2014,
     "expiry_date": "2026-05-10",
     "type": "movie",
     "platform": "HBO Max",
     "tmdb_id": "157336"
+  },
+  {
+    "title": "La zona de interés",
+    "year": 2023,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "467244"
+  },
+  {
+    "title": "Dragon Ball Z Kai",
+    "year": 2009,
+    "expiry_date": "2026-05-11",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "61709"
+  },
+  {
+    "title": "Parásitos",
+    "year": 2019,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "496243"
+  },
+  {
+    "title": "El señor de los anillos: La comunidad del anillo",
+    "year": 2001,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "120"
+  },
+  {
+    "title": "La gran belleza",
+    "year": 2013,
+    "expiry_date": "2026-05-21",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "179144"
+  },
+  {
+    "title": "Mickey 17",
+    "year": 2025,
+    "expiry_date": "2026-05-22",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "696506"
+  },
+  {
+    "title": "Robot salvaje",
+    "year": 2024,
+    "expiry_date": "2026-05-25",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "1184918"
   }
 ]

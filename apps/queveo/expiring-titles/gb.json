@@ -1,13 +1,5 @@
 [
   {
-    "title": "Conclave",
-    "year": 2024,
-    "expiry_date": "2026-04-29",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "974576"
-  },
-  {
     "title": "Gladiator",
     "year": 2000,
     "expiry_date": "2026-04-30",
@@ -16,12 +8,108 @@
     "tmdb_id": "98"
   },
   {
-    "title": "Mulholland Drive",
-    "year": 2001,
+    "title": "Minority Report",
+    "year": 2002,
     "expiry_date": "2026-04-30",
     "type": "movie",
-    "platform": "MUBI",
-    "tmdb_id": "1018"
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "180"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "274"
+  },
+  {
+    "title": "Mean Girls",
+    "year": 2004,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "10625"
+  },
+  {
+    "title": "Scott Pilgrim vs. the World",
+    "year": 2010,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "22538"
+  },
+  {
+    "title": "Tropic Thunder",
+    "year": 2008,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "7446"
+  },
+  {
+    "title": "Bullet Train",
+    "year": 2022,
+    "expiry_date": "2026-05-02",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "718930"
+  },
+  {
+    "title": "Black Hawk Down",
+    "year": 2001,
+    "expiry_date": "2026-05-02",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "855"
+  },
+  {
+    "title": "Miami Vice",
+    "year": 1984,
+    "expiry_date": "2026-05-02",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1908"
+  },
+  {
+    "title": "Northern Exposure",
+    "year": 1990,
+    "expiry_date": "2026-05-02",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "4396"
+  },
+  {
+    "title": "Channel Zero",
+    "year": 2016,
+    "expiry_date": "2026-05-02",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "67752"
+  },
+  {
+    "title": "Self Reliance",
+    "year": 2024,
+    "expiry_date": "2026-05-06",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1072876"
+  },
+  {
+    "title": "Top Gun",
+    "year": 1986,
+    "expiry_date": "2026-05-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "744"
+  },
+  {
+    "title": "Men in Black",
+    "year": 1997,
+    "expiry_date": "2026-05-06",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "607"
   },
   {
     "title": "Shutter Island",
@@ -64,6 +152,22 @@
     "tmdb_id": "238"
   },
   {
+    "title": "Ad Astra",
+    "year": 2019,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "419704"
+  },
+  {
+    "title": "mother!",
+    "year": 2017,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "381283"
+  },
+  {
     "title": "Heretic",
     "year": 2024,
     "expiry_date": "2026-05-10",
@@ -72,11 +176,171 @@
     "tmdb_id": "1138194"
   },
   {
+    "title": "Pride & Prejudice",
+    "year": 2005,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "4348"
+  },
+  {
+    "title": "As Above, So Below",
+    "year": 2014,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "256274"
+  },
+  {
     "title": "Saving Private Ryan",
     "year": 1998,
     "expiry_date": "2026-05-12",
     "type": "movie",
     "platform": "Netflix",
     "tmdb_id": "857"
+  },
+  {
+    "title": "mother!",
+    "year": 2017,
+    "expiry_date": "2026-05-12",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "381283"
+  },
+  {
+    "title": "About Time",
+    "year": 2013,
+    "expiry_date": "2026-05-13",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "122906"
+  },
+  {
+    "title": "Snowpiercer",
+    "year": 2013,
+    "expiry_date": "2026-05-13",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "110415"
+  },
+  {
+    "title": "Willy Wonka & the Chocolate Factory",
+    "year": 1971,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "252"
+  },
+  {
+    "title": "Django Unchained",
+    "year": 2012,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "68718"
+  },
+  {
+    "title": "The Last Samurai",
+    "year": 2003,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "616"
+  },
+  {
+    "title": "The Greatest Showman",
+    "year": 2017,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "316029"
+  },
+  {
+    "title": "1917",
+    "year": 2019,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "530915"
+  },
+  {
+    "title": "Shrek",
+    "year": 2001,
+    "expiry_date": "2026-05-20",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "808"
+  },
+  {
+    "title": "The Holdovers",
+    "year": 2023,
+    "expiry_date": "2026-05-21",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "840430"
+  },
+  {
+    "title": "This Is Where I Leave You",
+    "year": 2014,
+    "expiry_date": "2026-05-23",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "239678"
+  },
+  {
+    "title": "Once Upon a Time... in Hollywood",
+    "year": 2019,
+    "expiry_date": "2026-05-26",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "466272"
+  },
+  {
+    "title": "The Witch",
+    "year": 2015,
+    "expiry_date": "2026-05-27",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "310131"
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "expiry_date": "2026-05-27",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "329"
+  },
+  {
+    "title": "Licorice Pizza",
+    "year": 2021,
+    "expiry_date": "2026-05-27",
+    "type": "movie",
+    "platform": "MUBI",
+    "tmdb_id": "718032"
+  },
+  {
+    "title": "The Social Network",
+    "year": 2010,
+    "expiry_date": "2026-05-28",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "37799"
+  },
+  {
+    "title": "28 Days Later",
+    "year": 2002,
+    "expiry_date": "2026-05-29",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "170"
+  },
+  {
+    "title": "The Lego Batman Movie",
+    "year": 2017,
+    "expiry_date": "2026-05-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "324849"
   }
 ]

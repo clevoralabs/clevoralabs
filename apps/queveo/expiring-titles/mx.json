@@ -1,14 +1,54 @@
 [
   {
-    "title": "Oldboy",
-    "year": 2003,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "MUBI",
-    "tmdb_id": "670"
+    "title": "Bob Esponja",
+    "year": 1999,
+    "expiry_date": "2026-05-01",
+    "type": "tv",
+    "platform": "HBO Max",
+    "tmdb_id": "387"
   },
   {
-    "title": "Wrong Turn",
+    "title": "Dos buenos tipos",
+    "year": 2016,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "290250"
+  },
+  {
+    "title": "The Master",
+    "year": 2012,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "68722"
+  },
+  {
+    "title": "El silencio de los corderos",
+    "year": 1991,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "274"
+  },
+  {
+    "title": "Código fuente",
+    "year": 2011,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "45612"
+  },
+  {
+    "title": "Pasajeros",
+    "year": 2016,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "274870"
+  },
+  {
+    "title": "Wrong Turn. Sendero al infierno",
     "year": 2021,
     "expiry_date": "2026-05-01",
     "type": "movie",
@@ -16,11 +56,67 @@
     "tmdb_id": "630586"
   },
   {
-    "title": "The Bikeriders",
+    "title": "Golpe de efecto",
+    "year": 2012,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "87825"
+  },
+  {
+    "title": "Rain man",
+    "year": 1988,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "380"
+  },
+  {
+    "title": "Longlegs: Coleccionista De Almas",
+    "year": 2024,
+    "expiry_date": "2026-05-02",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1226578"
+  },
+  {
+    "title": "Bikeriders: La ley del asfalto",
     "year": 2024,
     "expiry_date": "2026-05-03",
     "type": "movie",
     "platform": "HBO Max",
     "tmdb_id": "1008409"
+  },
+  {
+    "title": "Babygirl: Deseo prohibido",
+    "year": 2024,
+    "expiry_date": "2026-05-07",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1097549"
+  },
+  {
+    "title": "El señor de los anillos: La comunidad del anillo",
+    "year": 2001,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "120"
+  },
+  {
+    "title": "The Imitation Game (Descifrando Enigma)",
+    "year": 2014,
+    "expiry_date": "2026-05-18",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "205596"
+  },
+  {
+    "title": "Heretic (Hereje)",
+    "year": 2024,
+    "expiry_date": "2026-05-23",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1138194"
   }
 ]

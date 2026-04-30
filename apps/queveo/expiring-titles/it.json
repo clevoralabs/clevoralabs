@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Il silenzio degli innocenti",
+    "year": 1991,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "274"
+  },
+  {
+    "title": "Rain Man - L'uomo della pioggia",
+    "year": 1988,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "380"
+  },
+  {
+    "title": "Chicago Med",
+    "year": 2015,
+    "expiry_date": "2026-04-30",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "62650"
+  },
+  {
+    "title": "L'amore bugiardo - Gone Girl",
+    "year": 2014,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "210577"
+  },
+  {
+    "title": "Il grande Lebowski",
+    "year": 1998,
+    "expiry_date": "2026-04-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "115"
+  },
+  {
+    "title": "The Fall Guy",
+    "year": 2024,
+    "expiry_date": "2026-05-03",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "746036"
+  },
+  {
+    "title": "Dune",
+    "year": 2021,
+    "expiry_date": "2026-05-04",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "438631"
+  },
+  {
+    "title": "Le regole del delitto perfetto",
+    "year": 2014,
+    "expiry_date": "2026-05-04",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "61056"
+  },
+  {
+    "title": "Salvate il soldato Ryan",
+    "year": 1998,
+    "expiry_date": "2026-05-12",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "857"
+  },
+  {
+    "title": "Il Signore degli Anelli: La Compagnia dell'Anello",
+    "year": 2001,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "120"
+  },
+  {
+    "title": "Little Fish",
+    "year": 2021,
+    "expiry_date": "2026-05-19",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "586791"
+  },
+  {
+    "title": "Veleno",
+    "year": 2021,
+    "expiry_date": "2026-05-24",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "124900"
+  },
+  {
+    "title": "Ubriaco d'amore",
+    "year": 2002,
+    "expiry_date": "2026-05-25",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "8051"
+  },
+  {
+    "title": "Per vincere domani - The Karate Kid",
+    "year": 1984,
+    "expiry_date": "2026-05-28",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1885"
+  }
+]
