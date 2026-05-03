@@ -1,77 +1,5 @@
 [
   {
-    "title": "Bob Esponja",
-    "year": 1999,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "HBO Max",
-    "tmdb_id": "387"
-  },
-  {
-    "title": "Dos buenos tipos",
-    "year": 2016,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "290250"
-  },
-  {
-    "title": "The Master",
-    "year": 2012,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "68722"
-  },
-  {
-    "title": "El silencio de los corderos",
-    "year": 1991,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "274"
-  },
-  {
-    "title": "Código fuente",
-    "year": 2011,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "45612"
-  },
-  {
-    "title": "Pasajeros",
-    "year": 2016,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "HBO Max",
-    "tmdb_id": "274870"
-  },
-  {
-    "title": "Wrong Turn. Sendero al infierno",
-    "year": 2021,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "630586"
-  },
-  {
-    "title": "Golpe de efecto",
-    "year": 2012,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "HBO Max",
-    "tmdb_id": "87825"
-  },
-  {
-    "title": "Rain man",
-    "year": 1988,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "380"
-  },
-  {
     "title": "Longlegs: Coleccionista De Almas",
     "year": 2024,
     "expiry_date": "2026-05-02",
@@ -88,12 +16,44 @@
     "tmdb_id": "1008409"
   },
   {
+    "title": "Batman: La Serie Animada",
+    "year": 1992,
+    "expiry_date": "2026-05-05",
+    "type": "tv",
+    "platform": "HBO Max",
+    "tmdb_id": "2098"
+  },
+  {
+    "title": "La fuente de la vida",
+    "year": 2006,
+    "expiry_date": "2026-05-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1381"
+  },
+  {
     "title": "Babygirl: Deseo prohibido",
     "year": 2024,
     "expiry_date": "2026-05-07",
     "type": "movie",
     "platform": "Amazon Prime Video",
     "tmdb_id": "1097549"
+  },
+  {
+    "title": "Animales nocturnos",
+    "year": 2016,
+    "expiry_date": "2026-05-12",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "340666"
+  },
+  {
+    "title": "Todas las vidas, mi vida",
+    "year": 2009,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "4960"
   },
   {
     "title": "El señor de los anillos: La comunidad del anillo",
@@ -118,5 +78,37 @@
     "type": "movie",
     "platform": "Amazon Prime Video",
     "tmdb_id": "1138194"
+  },
+  {
+    "title": "Alice (Subservience)",
+    "year": 2024,
+    "expiry_date": "2026-05-27",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1064028"
+  },
+  {
+    "title": "El Justiciero: Capítulo Final",
+    "year": 2023,
+    "expiry_date": "2026-05-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "926393"
+  },
+  {
+    "title": "Cuando Harry encontró a Sally",
+    "year": 1989,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "MUBI",
+    "tmdb_id": "639"
+  },
+  {
+    "title": "Mysterious Skin (Oscura inocencia)",
+    "year": 2005,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "MUBI",
+    "tmdb_id": "11171"
   }
 ]

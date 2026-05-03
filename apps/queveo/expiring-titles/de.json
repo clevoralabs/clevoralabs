@@ -1,43 +1,19 @@
 [
   {
-    "title": "Overboard",
-    "year": 2018,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "454619"
-  },
-  {
-    "title": "Hereditary - Das Vermächtnis",
-    "year": 2018,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "493922"
-  },
-  {
-    "title": "Punch-Drunk Love",
-    "year": 2002,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": "8051"
-  },
-  {
-    "title": "Overboard - Ein Goldfisch fällt ins Wasser",
-    "year": 1987,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "10780"
-  },
-  {
     "title": "The Fall Guy",
     "year": 2024,
     "expiry_date": "2026-05-01",
     "type": "movie",
     "platform": "Amazon Prime Video",
     "tmdb_id": "746036"
+  },
+  {
+    "title": "Abigail",
+    "year": 2024,
+    "expiry_date": "2026-05-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1111873"
   },
   {
     "title": "Covert Affairs",
@@ -64,6 +40,22 @@
     "tmdb_id": "43347"
   },
   {
+    "title": "Transformers",
+    "year": 2007,
+    "expiry_date": "2026-05-03",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1858"
+  },
+  {
+    "title": "Lee - Die Fotografin",
+    "year": 2024,
+    "expiry_date": "2026-05-04",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "832964"
+  },
+  {
     "title": "Overboard",
     "year": 2018,
     "expiry_date": "2026-05-05",
@@ -78,6 +70,14 @@
     "type": "movie",
     "platform": "Netflix",
     "tmdb_id": "10780"
+  },
+  {
+    "title": "Dora und die goldene Stadt",
+    "year": 2019,
+    "expiry_date": "2026-05-05",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "499701"
   },
   {
     "title": "The Northman",
@@ -136,6 +136,14 @@
     "tmdb_id": "646389"
   },
   {
+    "title": "How to Be Single - Welcome to the Party",
+    "year": 2016,
+    "expiry_date": "2026-05-12",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "259694"
+  },
+  {
     "title": "13 Hours: Geheimauftrag in Bengasi",
     "year": 2016,
     "expiry_date": "2026-05-13",
@@ -184,6 +192,22 @@
     "tmdb_id": "316029"
   },
   {
+    "title": "Der Herr der Ringe - Die Rückkehr des Königs",
+    "year": 2003,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "122"
+  },
+  {
+    "title": "Sommer vorm Balkon",
+    "year": 2005,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "410"
+  },
+  {
     "title": "Chaos Walking",
     "year": 2021,
     "expiry_date": "2026-05-15",
@@ -224,6 +248,22 @@
     "tmdb_id": "2673"
   },
   {
+    "title": "Becoming Led Zeppelin",
+    "year": 2025,
+    "expiry_date": "2026-05-17",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "857800"
+  },
+  {
+    "title": "E.T. - Der Außerirdische",
+    "year": 1982,
+    "expiry_date": "2026-05-17",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "601"
+  },
+  {
     "title": "Birdman oder (Die unverhoffte Macht der Ahnungslosigkeit)",
     "year": 2014,
     "expiry_date": "2026-05-18",
@@ -240,12 +280,44 @@
     "tmdb_id": "980026"
   },
   {
+    "title": "Not a Girl",
+    "year": 2002,
+    "expiry_date": "2026-05-20",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "17130"
+  },
+  {
     "title": "Die Bourne Identität",
     "year": 2002,
     "expiry_date": "2026-05-22",
     "type": "movie",
     "platform": "Netflix",
     "tmdb_id": "2501"
+  },
+  {
+    "title": "Jason Bourne",
+    "year": 2016,
+    "expiry_date": "2026-05-22",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "324668"
+  },
+  {
+    "title": "Das Bourne Ultimatum",
+    "year": 2007,
+    "expiry_date": "2026-05-22",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "2503"
+  },
+  {
+    "title": "Die Bourne Verschwörung",
+    "year": 2004,
+    "expiry_date": "2026-05-22",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "2502"
   },
   {
     "title": "Gemini Man",
@@ -262,6 +334,14 @@
     "type": "movie",
     "platform": "Netflix",
     "tmdb_id": "1208284"
+  },
+  {
+    "title": "Arthur the King - Arthur der Grosse",
+    "year": 2024,
+    "expiry_date": "2026-05-24",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "618588"
   },
   {
     "title": "G.I. Joe - Geheimauftrag Cobra",
@@ -286,5 +366,141 @@
     "type": "movie",
     "platform": "Amazon Prime Video",
     "tmdb_id": "986088"
+  },
+  {
+    "title": "Missions",
+    "year": 2017,
+    "expiry_date": "2026-05-31",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "71969"
+  },
+  {
+    "title": "Terminator",
+    "year": 1984,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "218"
+  },
+  {
+    "title": "Spaceballs - Mel Brooks' verrückte Raumfahrt",
+    "year": 1987,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "957"
+  },
+  {
+    "title": "Der Einzelgänger",
+    "year": 1981,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "11524"
+  },
+  {
+    "title": "James Bond 007 - Casino Royale",
+    "year": 2006,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "36557"
+  },
+  {
+    "title": "The Poughkeepsie Tapes",
+    "year": 2007,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "38410"
+  },
+  {
+    "title": "James Bond 007 - Keine Zeit zu sterben",
+    "year": 2021,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "370172"
+  },
+  {
+    "title": "James Bond 007 - Skyfall",
+    "year": 2012,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "37724"
+  },
+  {
+    "title": "James Bond 007 - Ein Quantum Trost",
+    "year": 2008,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "10764"
+  },
+  {
+    "title": "James Bond 007 - Spectre",
+    "year": 2015,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "206647"
+  },
+  {
+    "title": "Thelma & Louise",
+    "year": 1991,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1541"
+  },
+  {
+    "title": "Rules of Engagement",
+    "year": 2007,
+    "expiry_date": "2026-05-31",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "2755"
+  },
+  {
+    "title": "Journey's End",
+    "year": 2017,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "438259"
+  },
+  {
+    "title": "Harry und Sally",
+    "year": 1989,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "639"
+  },
+  {
+    "title": "Beyond the Front Line - Kampf um Karelien",
+    "year": 2004,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "29436"
+  },
+  {
+    "title": "How to Be Single - Welcome to the Party",
+    "year": 2016,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "259694"
+  },
+  {
+    "title": "Following - Eine blutige Falle",
+    "year": 1999,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "11660"
   }
 ]

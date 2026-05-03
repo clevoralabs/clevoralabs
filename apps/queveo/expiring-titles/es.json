@@ -1,101 +1,5 @@
 [
   {
-    "title": "Apolo 13",
-    "year": 1995,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "SkyShowtime",
-    "tmdb_id": "568"
-  },
-  {
-    "title": "House",
-    "year": 2004,
-    "expiry_date": "2026-04-30",
-    "type": "tv",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "1408"
-  },
-  {
-    "title": "Irreversible",
-    "year": 2002,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Filmin",
-    "tmdb_id": "979"
-  },
-  {
-    "title": "Mulholland Drive",
-    "year": 2001,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Filmin",
-    "tmdb_id": "1018"
-  },
-  {
-    "title": "El silencio de los corderos",
-    "year": 1991,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "274"
-  },
-  {
-    "title": "Forrest Gump",
-    "year": 1994,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "SkyShowtime",
-    "tmdb_id": "13"
-  },
-  {
-    "title": "Un lugar tranquilo",
-    "year": 2018,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "SkyShowtime",
-    "tmdb_id": "447332"
-  },
-  {
-    "title": "Rain man",
-    "year": 1988,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "380"
-  },
-  {
-    "title": "La escalera de Jacob",
-    "year": 1990,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Filmin",
-    "tmdb_id": "2291"
-  },
-  {
-    "title": "El faro",
-    "year": 2019,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "SkyShowtime",
-    "tmdb_id": "503919"
-  },
-  {
-    "title": "Zombies Party",
-    "year": 2004,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Filmin",
-    "tmdb_id": "747"
-  },
-  {
-    "title": "Algunos hombres buenos",
-    "year": 1992,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Filmin",
-    "tmdb_id": "881"
-  },
-  {
     "title": "Martín (Hache)",
     "year": 1997,
     "expiry_date": "2026-05-01",
@@ -104,12 +8,36 @@
     "tmdb_id": "43429"
   },
   {
+    "title": "Los hijos de la calle",
+    "year": 1996,
+    "expiry_date": "2026-05-03",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "819"
+  },
+  {
     "title": "Kimetsu no Yaiba",
     "year": 2019,
     "expiry_date": "2026-05-04",
     "type": "tv",
     "platform": "Amazon Prime Video",
     "tmdb_id": "85937"
+  },
+  {
+    "title": "Mary y Max",
+    "year": 2009,
+    "expiry_date": "2026-05-08",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "24238"
+  },
+  {
+    "title": "La Mesita del Comedor",
+    "year": 2024,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "1056380"
   },
   {
     "title": "Interestellar",
@@ -152,6 +80,46 @@
     "tmdb_id": "120"
   },
   {
+    "title": "El señor de los anillos: El retorno del rey",
+    "year": 2003,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "122"
+  },
+  {
+    "title": "Posesión infernal: El despertar",
+    "year": 2023,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "713704"
+  },
+  {
+    "title": "Resacón en Las Vegas",
+    "year": 2009,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "18785"
+  },
+  {
+    "title": "Un monstruo viene a verme",
+    "year": 2016,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "258230"
+  },
+  {
+    "title": "Close",
+    "year": 2022,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "901563"
+  },
+  {
     "title": "La gran belleza",
     "year": 2013,
     "expiry_date": "2026-05-21",
@@ -174,5 +142,269 @@
     "type": "movie",
     "platform": "SkyShowtime",
     "tmdb_id": "1184918"
+  },
+  {
+    "title": "Following",
+    "year": 1999,
+    "expiry_date": "2026-05-29",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "11660"
+  },
+  {
+    "title": "El mundo es nuestro",
+    "year": 2012,
+    "expiry_date": "2026-05-30",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "115655"
+  },
+  {
+    "title": "Origen",
+    "year": 2010,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "27205"
+  },
+  {
+    "title": "La ciudad de las estrellas (La La Land)",
+    "year": 2016,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "313369"
+  },
+  {
+    "title": "Chicago Med",
+    "year": 2015,
+    "expiry_date": "2026-05-31",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "62650"
+  },
+  {
+    "title": "El príncipe de Egipto",
+    "year": 1998,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "9837"
+  },
+  {
+    "title": "Recuerdos perversos",
+    "year": 2007,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "38410"
+  },
+  {
+    "title": "Harry Potter y la piedra filosofal",
+    "year": 2001,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "671"
+  },
+  {
+    "title": "Super 8",
+    "year": 2011,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "37686"
+  },
+  {
+    "title": "La lista de Schindler",
+    "year": 1993,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "424"
+  },
+  {
+    "title": "Malditos bastardos",
+    "year": 2009,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "16869"
+  },
+  {
+    "title": "El indomable Will Hunting",
+    "year": 1997,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "489"
+  },
+  {
+    "title": "Terminator",
+    "year": 1984,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "218"
+  },
+  {
+    "title": "El show de Truman",
+    "year": 1998,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "37165"
+  },
+  {
+    "title": "Pulp Fiction: Tiempos violentos",
+    "year": 1994,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "680"
+  },
+  {
+    "title": "Mortal Kombat",
+    "year": 2021,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "460465"
+  },
+  {
+    "title": "No es país para viejos",
+    "year": 2007,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "6977"
+  },
+  {
+    "title": "American gangster",
+    "year": 2007,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "4982"
+  },
+  {
+    "title": "Perdidos en Tokio",
+    "year": 2003,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "153"
+  },
+  {
+    "title": "Naruto Shippuden",
+    "year": 2007,
+    "expiry_date": "2026-05-31",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "31910"
+  },
+  {
+    "title": "El gran Lebowski",
+    "year": 1998,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "115"
+  },
+  {
+    "title": "Blade Runner",
+    "year": 1982,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "78"
+  },
+  {
+    "title": "Casino Royale",
+    "year": 2006,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "36557"
+  },
+  {
+    "title": "Gran Torino",
+    "year": 2008,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "13223"
+  },
+  {
+    "title": "Guerra Mundial Z",
+    "year": 2013,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "72190"
+  },
+  {
+    "title": "Cuando Harry encontró a Sally",
+    "year": 1989,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "639"
+  },
+  {
+    "title": "Ex Máquina",
+    "year": 2015,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "264660"
+  },
+  {
+    "title": "Ocean's Eleven. Hagan juego",
+    "year": 2001,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "161"
+  },
+  {
+    "title": "El precio del poder",
+    "year": 1983,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "111"
+  },
+  {
+    "title": "Top Gun: Ídolos del aire",
+    "year": 1986,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "744"
+  },
+  {
+    "title": "007: Operación Skyfall",
+    "year": 2012,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "37724"
+  },
+  {
+    "title": "Districte 9",
+    "year": 2009,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "17654"
+  },
+  {
+    "title": "Vicky Cristina Barcelona",
+    "year": 2008,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "5038"
   }
 ]
