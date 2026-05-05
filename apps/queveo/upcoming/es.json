@@ -264,6 +264,18 @@
     "justwatch_url": "/es/serie/spider-noir/temporada-1"
   },
   {
+    "tmdb_id": 218342,
+    "title": "Asesinato para principiantes - Temporada 2",
+    "media_type": "tv",
+    "release_date": "2026-05-26",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tss477725",
+    "justwatch_url": "/es/serie/a-good-girls-guide-to-murder/temporada-2"
+  },
+  {
     "tmdb_id": 304597,
     "title": "Por cuatro perras - Temporada 1",
     "media_type": "tv",
