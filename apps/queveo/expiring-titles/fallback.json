@@ -1,467 +1,51 @@
 [
   {
-    "title": "The Rookie",
-    "year": 2018,
-    "expiry_date": "2026-04-28",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "79744"
-  },
-  {
-    "title": "Fire Country",
-    "year": 2022,
-    "expiry_date": "2026-04-28",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "202297"
-  },
-  {
-    "title": "Dogma",
-    "year": 1999,
-    "expiry_date": "2026-04-28",
-    "type": "movie",
-    "platform": "fuboTV",
-    "tmdb_id": "1832"
-  },
-  {
-    "title": "Boston Blue",
-    "year": 2025,
-    "expiry_date": "2026-04-28",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "284736"
-  },
-  {
-    "title": "The Devil Wears Prada",
-    "year": 2006,
-    "expiry_date": "2026-04-29",
-    "type": "movie",
-    "platform": "fuboTV",
-    "tmdb_id": "350"
-  },
-  {
-    "title": "Will Trent",
-    "year": 2023,
-    "expiry_date": "2026-04-29",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "208569"
-  },
-  {
-    "title": "RJ Decker",
-    "year": 2026,
-    "expiry_date": "2026-04-29",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "302074"
-  },
-  {
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "year": 2001,
-    "expiry_date": "2026-04-29",
-    "type": "movie",
-    "platform": "fuboTV",
-    "tmdb_id": "120"
-  },
-  {
-    "title": "Superbad",
-    "year": 2007,
-    "expiry_date": "2026-04-29",
-    "type": "movie",
-    "platform": "fuboTV",
-    "tmdb_id": "8363"
-  },
-  {
-    "title": "Conclave",
-    "year": 2024,
-    "expiry_date": "2026-04-29",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "974576"
-  },
-  {
-    "title": "Apollo 13",
-    "year": 1995,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "SkyShowtime",
-    "tmdb_id": "568"
-  },
-  {
-    "title": "House",
-    "year": 2004,
-    "expiry_date": "2026-04-30",
-    "type": "tv",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "1408"
-  },
-  {
-    "title": "Irréversible",
+    "title": "Resident evil - El huésped maldito",
     "year": 2002,
-    "expiry_date": "2026-04-30",
+    "expiry_date": "2026-05-08",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "1576"
+  },
+  {
+    "title": "Aguas profundas",
+    "year": 2022,
+    "expiry_date": "2026-05-08",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "619979"
+  },
+  {
+    "title": "Mary y Max",
+    "year": 2009,
+    "expiry_date": "2026-05-08",
     "type": "movie",
     "platform": "Filmin",
-    "tmdb_id": "979"
+    "tmdb_id": "24238"
   },
   {
-    "title": "Oldboy",
-    "year": 2003,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "MUBI",
-    "tmdb_id": "670"
-  },
-  {
-    "title": "Abbott Elementary",
-    "year": 2021,
-    "expiry_date": "2026-04-30",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "125935"
-  },
-  {
-    "title": "Marshals",
-    "year": 2026,
-    "expiry_date": "2026-04-30",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "290856"
-  },
-  {
-    "title": "Tracker",
-    "year": 2024,
-    "expiry_date": "2026-04-30",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "211288"
-  },
-  {
-    "title": "Arrival",
-    "year": 2016,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "fuboTV",
-    "tmdb_id": "329865"
-  },
-  {
-    "title": "The Big Short",
-    "year": 2015,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "fuboTV",
-    "tmdb_id": "318846"
-  },
-  {
-    "title": "Sicario",
-    "year": 2015,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": "273481"
-  },
-  {
-    "title": "Watson",
-    "year": 2025,
-    "expiry_date": "2026-04-30",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "242867"
-  },
-  {
-    "title": "The Way Home",
-    "year": 2023,
-    "expiry_date": "2026-04-30",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "201836"
-  },
-  {
-    "title": "#Skyking",
-    "year": 2026,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "fuboTV",
-    "tmdb_id": "1616400"
-  },
-  {
-    "title": "Ocean's Eleven",
-    "year": 2001,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "fuboTV",
-    "tmdb_id": "161"
-  },
-  {
-    "title": "Whiplash",
-    "year": 2014,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": "244786"
-  },
-  {
-    "title": "Hell or High Water",
-    "year": 2016,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Netflix",
-    "tmdb_id": "338766"
-  },
-  {
-    "title": "Gladiator",
-    "year": 2000,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "98"
-  },
-  {
-    "title": "Mulholland Drive",
-    "year": 2001,
-    "expiry_date": "2026-04-30",
-    "type": "movie",
-    "platform": "MUBI",
-    "tmdb_id": "1018"
-  },
-  {
-    "title": "Wrong Turn",
-    "year": 2021,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "630586"
-  },
-  {
-    "title": "The Nice Guys",
-    "year": 2016,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "290250"
-  },
-  {
-    "title": "The Master",
-    "year": 2012,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "68722"
-  },
-  {
-    "title": "The Silence of the Lambs",
-    "year": 1991,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "274"
-  },
-  {
-    "title": "FROM",
-    "year": 2022,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "124364"
-  },
-  {
-    "title": "Yellowstone",
-    "year": 2018,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "73586"
-  },
-  {
-    "title": "Schitt's Creek",
-    "year": 2015,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "61662"
-  },
-  {
-    "title": "Pagan Peak",
-    "year": 2019,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "85526"
-  },
-  {
-    "title": "Halt and Catch Fire",
-    "year": 2014,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "59659"
-  },
-  {
-    "title": "L.A. Confidential",
-    "year": 1997,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "2118"
-  },
-  {
-    "title": "Family Guy",
-    "year": 1999,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "1434"
-  },
-  {
-    "title": "Jumanji: The Next Level",
-    "year": 2019,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "fuboTV",
-    "tmdb_id": "512200"
-  },
-  {
-    "title": "Practical Magic",
-    "year": 1998,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "HBO Max",
-    "tmdb_id": "6435"
-  },
-  {
-    "title": "Sisu",
-    "year": 2023,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "840326"
-  },
-  {
-    "title": "DMV",
-    "year": 2025,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "289567"
-  },
-  {
-    "title": "The Neighborhood",
-    "year": 2018,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "81144"
-  },
-  {
-    "title": "The Godfather",
-    "year": 1972,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "fuboTV",
-    "tmdb_id": "238"
-  },
-  {
-    "title": "The Simpsons",
-    "year": 1989,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "fuboTV",
-    "tmdb_id": "456"
-  },
-  {
-    "title": "La La Land",
-    "year": 2016,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "313369"
-  },
-  {
-    "title": "Weeds",
-    "year": 2005,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "186"
-  },
-  {
-    "title": "The Princess Bride",
-    "year": 1987,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "fuboTV",
-    "tmdb_id": "2493"
-  },
-  {
-    "title": "Inception",
-    "year": 2010,
-    "expiry_date": "2026-05-01",
-    "type": "movie",
-    "platform": "HBO Max",
-    "tmdb_id": "27205"
-  },
-  {
-    "title": "Bob's Burgers",
+    "title": "Drive",
     "year": 2011,
-    "expiry_date": "2026-05-01",
-    "type": "tv",
+    "expiry_date": "2026-05-08",
+    "type": "movie",
     "platform": "fuboTV",
-    "tmdb_id": "32726"
+    "tmdb_id": "64690"
   },
   {
-    "title": "All the President's Men",
-    "year": 1976,
-    "expiry_date": "2026-05-01",
+    "title": "The Sandlot",
+    "year": 1993,
+    "expiry_date": "2026-05-08",
     "type": "movie",
-    "platform": "HBO Max",
-    "tmdb_id": "891"
+    "platform": "fuboTV",
+    "tmdb_id": "11528"
   },
   {
-    "title": "Longlegs",
-    "year": 2024,
-    "expiry_date": "2026-05-02",
+    "title": "Fury",
+    "year": 2014,
+    "expiry_date": "2026-05-08",
     "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "1226578"
-  },
-  {
-    "title": "The Bikeriders",
-    "year": 2024,
-    "expiry_date": "2026-05-03",
-    "type": "movie",
-    "platform": "HBO Max",
-    "tmdb_id": "1008409"
-  },
-  {
-    "title": "Kimetsu no Yaiba",
-    "year": 2019,
-    "expiry_date": "2026-05-04",
-    "type": "tv",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "85937"
-  },
-  {
-    "title": "The Staircase",
-    "year": 2022,
-    "expiry_date": "2026-05-05",
-    "type": "tv",
-    "platform": "HBO Max",
-    "tmdb_id": "122196"
-  },
-  {
-    "title": "Shutter Island",
-    "year": 2010,
-    "expiry_date": "2026-05-07",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "11324"
-  },
-  {
-    "title": "Contact",
-    "year": 1997,
-    "expiry_date": "2026-05-07",
-    "type": "movie",
-    "platform": "Amazon Prime Video",
-    "tmdb_id": "686"
+    "platform": "fuboTV",
+    "tmdb_id": "228150"
   },
   {
     "title": "The Devil's Advocate",
@@ -480,6 +64,62 @@
     "tmdb_id": "33"
   },
   {
+    "title": "Dirty Dancing",
+    "year": 1987,
+    "expiry_date": "2026-05-08",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "88"
+  },
+  {
+    "title": "Destination finale",
+    "year": 2000,
+    "expiry_date": "2026-05-08",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "9532"
+  },
+  {
+    "title": "La Mesita del Comedor",
+    "year": 2024,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "1056380"
+  },
+  {
+    "title": "El corredor del laberinto",
+    "year": 2014,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "198663"
+  },
+  {
+    "title": "NCIS: Sydney",
+    "year": 2023,
+    "expiry_date": "2026-05-09",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "157950"
+  },
+  {
+    "title": "Young Frankenstein",
+    "year": 1974,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "3034"
+  },
+  {
+    "title": "Jeopardy!",
+    "year": 1984,
+    "expiry_date": "2026-05-09",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "2912"
+  },
+  {
     "title": "The Godfather",
     "year": 1972,
     "expiry_date": "2026-05-09",
@@ -488,12 +128,148 @@
     "tmdb_id": "238"
   },
   {
-    "title": "Interstellar",
+    "title": "Ad Astra",
+    "year": 2019,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "419704"
+  },
+  {
+    "title": "mother!",
+    "year": 2017,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "381283"
+  },
+  {
+    "title": "Les Misérables",
+    "year": 2012,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "82695"
+  },
+  {
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "240"
+  },
+  {
+    "title": "The Great Gatsby",
+    "year": 2013,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "64682"
+  },
+  {
+    "title": "Le Prénom",
+    "year": 2012,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "112198"
+  },
+  {
+    "title": "Shameless - Nicht ganz nüchtern",
+    "year": 2011,
+    "expiry_date": "2026-05-09",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "34307"
+  },
+  {
+    "title": "Chiamami col tuo nome",
+    "year": 2017,
+    "expiry_date": "2026-05-09",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "398818"
+  },
+  {
+    "title": "Interestellar",
     "year": 2014,
     "expiry_date": "2026-05-10",
     "type": "movie",
     "platform": "HBO Max",
     "tmdb_id": "157336"
+  },
+  {
+    "title": "La zona de interés",
+    "year": 2023,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "467244"
+  },
+  {
+    "title": "Survivor",
+    "year": 2000,
+    "expiry_date": "2026-05-10",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "14658"
+  },
+  {
+    "title": "A Few Good Men",
+    "year": 1992,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "881"
+  },
+  {
+    "title": "America's Culinary Cup",
+    "year": 2026,
+    "expiry_date": "2026-05-10",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "313454"
+  },
+  {
+    "title": "Limitless",
+    "year": 2011,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "51876"
+  },
+  {
+    "title": "The Other Guys",
+    "year": 2010,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "27581"
+  },
+  {
+    "title": "Ace Ventura: Pet Detective",
+    "year": 1994,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "3049"
+  },
+  {
+    "title": "The Descent",
+    "year": 2005,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "9392"
+  },
+  {
+    "title": "Zero Dark Thirty",
+    "year": 2012,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "97630"
   },
   {
     "title": "Heretic",
@@ -504,6 +280,182 @@
     "tmdb_id": "1138194"
   },
   {
+    "title": "As Above, So Below",
+    "year": 2014,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "256274"
+  },
+  {
+    "title": "Pride & Prejudice",
+    "year": 2005,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "4348"
+  },
+  {
+    "title": "Operation Fortune",
+    "year": 2023,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "739405"
+  },
+  {
+    "title": "Tre uomini e una gamba",
+    "year": 1997,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "38286"
+  },
+  {
+    "title": "Amen.",
+    "year": 2002,
+    "expiry_date": "2026-05-10",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "9045"
+  },
+  {
+    "title": "Ghosts",
+    "year": 2021,
+    "expiry_date": "2026-05-11",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "126027"
+  },
+  {
+    "title": "Georgie & Mandy's First Marriage",
+    "year": 2024,
+    "expiry_date": "2026-05-11",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "243875"
+  },
+  {
+    "title": "Elsbeth",
+    "year": 2024,
+    "expiry_date": "2026-05-11",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "226285"
+  },
+  {
+    "title": "Grey's Anatomy",
+    "year": 2005,
+    "expiry_date": "2026-05-11",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "1416"
+  },
+  {
+    "title": "Sullivan's Crossing",
+    "year": 2023,
+    "expiry_date": "2026-05-11",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "211564"
+  },
+  {
+    "title": "9-1-1",
+    "year": 2018,
+    "expiry_date": "2026-05-11",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "75219"
+  },
+  {
+    "title": "Betrayal: Secrets & Lies",
+    "year": 2026,
+    "expiry_date": "2026-05-11",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "317264"
+  },
+  {
+    "title": "Wild Cards",
+    "year": 2024,
+    "expiry_date": "2026-05-11",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "240932"
+  },
+  {
+    "title": "The Daily Show",
+    "year": 1996,
+    "expiry_date": "2026-05-11",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "2224"
+  },
+  {
+    "title": "Bluey",
+    "year": 2018,
+    "expiry_date": "2026-05-11",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "82728"
+  },
+  {
+    "title": "9-1-1: Nashville",
+    "year": 2025,
+    "expiry_date": "2026-05-11",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "284838"
+  },
+  {
+    "title": "Anchorman: The Legend of Ron Burgundy",
+    "year": 2004,
+    "expiry_date": "2026-05-11",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "8699"
+  },
+  {
+    "title": "Scent of a Woman",
+    "year": 1992,
+    "expiry_date": "2026-05-11",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "9475"
+  },
+  {
+    "title": "Not For, Not Against - Es gibt kein Zurück",
+    "year": 2003,
+    "expiry_date": "2026-05-11",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "11958"
+  },
+  {
+    "title": "Animales nocturnos",
+    "year": 2016,
+    "expiry_date": "2026-05-12",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "340666"
+  },
+  {
+    "title": "The Rookie",
+    "year": 2018,
+    "expiry_date": "2026-05-12",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "79744"
+  },
+  {
+    "title": "American Idol: The Search for a Superstar",
+    "year": 2002,
+    "expiry_date": "2026-05-12",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "3626"
+  },
+  {
     "title": "Saving Private Ryan",
     "year": 1998,
     "expiry_date": "2026-05-12",
@@ -512,11 +464,2883 @@
     "tmdb_id": "857"
   },
   {
-    "title": "Saving Private Ryan",
+    "title": "mother!",
+    "year": 2017,
+    "expiry_date": "2026-05-12",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "381283"
+  },
+  {
+    "title": "Un prophète",
+    "year": 2009,
+    "expiry_date": "2026-05-12",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "21575"
+  },
+  {
+    "title": "Plane",
+    "year": 2023,
+    "expiry_date": "2026-05-12",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "646389"
+  },
+  {
+    "title": "How to Be Single - Welcome to the Party",
+    "year": 2016,
+    "expiry_date": "2026-05-12",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "259694"
+  },
+  {
+    "title": "Salvar al soldado Ryan",
     "year": 1998,
     "expiry_date": "2026-05-13",
     "type": "movie",
     "platform": "Netflix",
     "tmdb_id": "857"
+  },
+  {
+    "title": "Will Trent",
+    "year": 2023,
+    "expiry_date": "2026-05-13",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "208569"
+  },
+  {
+    "title": "About Time",
+    "year": 2013,
+    "expiry_date": "2026-05-13",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "122906"
+  },
+  {
+    "title": "Meet the Parents",
+    "year": 2000,
+    "expiry_date": "2026-05-13",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1597"
+  },
+  {
+    "title": "Snowpiercer",
+    "year": 2013,
+    "expiry_date": "2026-05-13",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "110415"
+  },
+  {
+    "title": "13 Hours: Geheimauftrag in Bengasi",
+    "year": 2016,
+    "expiry_date": "2026-05-13",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "300671"
+  },
+  {
+    "title": "Ich: Einfach unverbesserlich",
+    "year": 2010,
+    "expiry_date": "2026-05-13",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "20352"
+  },
+  {
+    "title": "Ich - Einfach unverbesserlich 3",
+    "year": 2017,
+    "expiry_date": "2026-05-13",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "324852"
+  },
+  {
+    "title": "Minions",
+    "year": 2015,
+    "expiry_date": "2026-05-13",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "211672"
+  },
+  {
+    "title": "Donnie Brasco",
+    "year": 1997,
+    "expiry_date": "2026-05-13",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "9366"
+  },
+  {
+    "title": "Parásitos",
+    "year": 2019,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "496243"
+  },
+  {
+    "title": "El señor de los anillos: La comunidad del anillo",
+    "year": 2001,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "120"
+  },
+  {
+    "title": "El señor de los anillos: El retorno del rey",
+    "year": 2003,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "122"
+  },
+  {
+    "title": "Posesión infernal: El despertar",
+    "year": 2023,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "713704"
+  },
+  {
+    "title": "Resacón en Las Vegas",
+    "year": 2009,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "18785"
+  },
+  {
+    "title": "Todas las vidas, mi vida",
+    "year": 2009,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "4960"
+  },
+  {
+    "title": "Shutter Island",
+    "year": 2010,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "11324"
+  },
+  {
+    "title": "Pequeños detalles",
+    "year": 2021,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "602269"
+  },
+  {
+    "title": "The Last Samurai",
+    "year": 2003,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "616"
+  },
+  {
+    "title": "Django Unchained",
+    "year": 2012,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "68718"
+  },
+  {
+    "title": "The Greatest Showman",
+    "year": 2017,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "316029"
+  },
+  {
+    "title": "Willy Wonka & the Chocolate Factory",
+    "year": 1971,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "252"
+  },
+  {
+    "title": "Mad Max : Fury Road",
+    "year": 2015,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "76341"
+  },
+  {
+    "title": "Le Seigneur des anneaux : Les Deux Tours",
+    "year": 2002,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "121"
+  },
+  {
+    "title": "Les Rivières pourpres",
+    "year": 2000,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "60670"
+  },
+  {
+    "title": " IF: Imaginäre Freunde",
+    "year": 2024,
+    "expiry_date": "2026-05-14",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "639720"
+  },
+  {
+    "title": "Pretty Little Liars",
+    "year": 2010,
+    "expiry_date": "2026-05-14",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "31917"
+  },
+  {
+    "title": "Un monstruo viene a verme",
+    "year": 2016,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "258230"
+  },
+  {
+    "title": "Los demonios",
+    "year": 1971,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "31767"
+  },
+  {
+    "title": "Close",
+    "year": 2022,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "901563"
+  },
+  {
+    "title": "El señor de los anillos: La comunidad del anillo",
+    "year": 2001,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "120"
+  },
+  {
+    "title": "Schitt's Creek",
+    "year": 2015,
+    "expiry_date": "2026-05-15",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "61662"
+  },
+  {
+    "title": "Last Week Tonight with John Oliver",
+    "year": 2014,
+    "expiry_date": "2026-05-15",
+    "type": "tv",
+    "platform": "HBO Max",
+    "tmdb_id": "60694"
+  },
+  {
+    "title": "The Rockford Files",
+    "year": 1974,
+    "expiry_date": "2026-05-15",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "954"
+  },
+  {
+    "title": "1917",
+    "year": 2019,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "530915"
+  },
+  {
+    "title": "8 Mile",
+    "year": 2002,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "65"
+  },
+  {
+    "title": "Chaos Walking",
+    "year": 2021,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "412656"
+  },
+  {
+    "title": "Elementary",
+    "year": 2012,
+    "expiry_date": "2026-05-15",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1415"
+  },
+  {
+    "title": "Scorpion",
+    "year": 2014,
+    "expiry_date": "2026-05-15",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "60797"
+  },
+  {
+    "title": "Balla coi lupi",
+    "year": 1990,
+    "expiry_date": "2026-05-15",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "581"
+  },
+  {
+    "title": "Gru 4: Mi villano favorito",
+    "year": 2024,
+    "expiry_date": "2026-05-17",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "519182"
+  },
+  {
+    "title": "Elementary",
+    "year": 2012,
+    "expiry_date": "2026-05-17",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1415"
+  },
+  {
+    "title": "L'Associé du diable",
+    "year": 1997,
+    "expiry_date": "2026-05-17",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1813"
+  },
+  {
+    "title": "O.C. California",
+    "year": 2003,
+    "expiry_date": "2026-05-17",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "2673"
+  },
+  {
+    "title": "E.T. - Der Außerirdische",
+    "year": 1982,
+    "expiry_date": "2026-05-17",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "601"
+  },
+  {
+    "title": "Becoming Led Zeppelin",
+    "year": 2025,
+    "expiry_date": "2026-05-17",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "857800"
+  },
+  {
+    "title": "The Imitation Game (Descifrando Enigma)",
+    "year": 2014,
+    "expiry_date": "2026-05-18",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "205596"
+  },
+  {
+    "title": "Futurama",
+    "year": 1999,
+    "expiry_date": "2026-05-18",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "615"
+  },
+  {
+    "title": "The Edge of Seventeen",
+    "year": 2016,
+    "expiry_date": "2026-05-18",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "376660"
+  },
+  {
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "year": 2014,
+    "expiry_date": "2026-05-18",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "194662"
+  },
+  {
+    "title": "Collateral",
+    "year": 2004,
+    "expiry_date": "2026-05-18",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1538"
+  },
+  {
+    "title": "King's Land",
+    "year": 2023,
+    "expiry_date": "2026-05-18",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "980026"
+  },
+  {
+    "title": "Once Upon a Time in... Hollywood",
+    "year": 2019,
+    "expiry_date": "2026-05-19",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "466272"
+  },
+  {
+    "title": "Little Fish",
+    "year": 2021,
+    "expiry_date": "2026-05-19",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "586791"
+  },
+  {
+    "title": "Shrek",
+    "year": 2001,
+    "expiry_date": "2026-05-20",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "808"
+  },
+  {
+    "title": "La gran belleza",
+    "year": 2013,
+    "expiry_date": "2026-05-21",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "179144"
+  },
+  {
+    "title": "Wicked",
+    "year": 2024,
+    "expiry_date": "2026-05-21",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "402431"
+  },
+  {
+    "title": "Alien",
+    "year": 1979,
+    "expiry_date": "2026-05-21",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "348"
+  },
+  {
+    "title": "Alien: Romulus",
+    "year": 2024,
+    "expiry_date": "2026-05-21",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "945961"
+  },
+  {
+    "title": "Aliens",
+    "year": 1986,
+    "expiry_date": "2026-05-21",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "679"
+  },
+  {
+    "title": "The Holdovers",
+    "year": 2023,
+    "expiry_date": "2026-05-21",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "840430"
+  },
+  {
+    "title": "Lucy",
+    "year": 2014,
+    "expiry_date": "2026-05-21",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "240832"
+  },
+  {
+    "title": "Furiosa : Une saga Mad Max",
+    "year": 2024,
+    "expiry_date": "2026-05-21",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "786892"
+  },
+  {
+    "title": "30 anni in un secondo",
+    "year": 2004,
+    "expiry_date": "2026-05-21",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "10096"
+  },
+  {
+    "title": "L'ultimo dei Mohicani",
+    "year": 1992,
+    "expiry_date": "2026-05-21",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "9361"
+  },
+  {
+    "title": "Mickey 17",
+    "year": 2025,
+    "expiry_date": "2026-05-22",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "696506"
+  },
+  {
+    "title": "Fargo",
+    "year": 2014,
+    "expiry_date": "2026-05-22",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "60622"
+  },
+  {
+    "title": "Sully",
+    "year": 2016,
+    "expiry_date": "2026-05-22",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "363676"
+  },
+  {
+    "title": "La Mémoire dans la peau",
+    "year": 2002,
+    "expiry_date": "2026-05-22",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "2501"
+  },
+  {
+    "title": "Impitoyable",
+    "year": 1992,
+    "expiry_date": "2026-05-22",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "33"
+  },
+  {
+    "title": "Die Bourne Verschwörung",
+    "year": 2004,
+    "expiry_date": "2026-05-22",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "2502"
+  },
+  {
+    "title": "Heretic (Hereje)",
+    "year": 2024,
+    "expiry_date": "2026-05-23",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1138194"
+  },
+  {
+    "title": "The Bourne Identity: El caso Bourne",
+    "year": 2002,
+    "expiry_date": "2026-05-23",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "2501"
+  },
+  {
+    "title": "El mito de Bourne",
+    "year": 2004,
+    "expiry_date": "2026-05-23",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "2502"
+  },
+  {
+    "title": "Mickey 17",
+    "year": 2025,
+    "expiry_date": "2026-05-23",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "696506"
+  },
+  {
+    "title": "Schindler's List",
+    "year": 1993,
+    "expiry_date": "2026-05-23",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "424"
+  },
+  {
+    "title": "This Is Where I Leave You",
+    "year": 2014,
+    "expiry_date": "2026-05-23",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "239678"
+  },
+  {
+    "title": "Kingsman: The Secret Service",
+    "year": 2014,
+    "expiry_date": "2026-05-23",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "207703"
+  },
+  {
+    "title": "Arthur the King",
+    "year": 2024,
+    "expiry_date": "2026-05-23",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "618588"
+  },
+  {
+    "title": "Gemini Man",
+    "year": 2019,
+    "expiry_date": "2026-05-23",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "453405"
+  },
+  {
+    "title": "Synchronic",
+    "year": 2020,
+    "expiry_date": "2026-05-24",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "549294"
+  },
+  {
+    "title": "World War Z",
+    "year": 2013,
+    "expiry_date": "2026-05-24",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "72190"
+  },
+  {
+    "title": "Grown Ups",
+    "year": 2010,
+    "expiry_date": "2026-05-24",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "38365"
+  },
+  {
+    "title": "Eyes Wide Shut",
+    "year": 1999,
+    "expiry_date": "2026-05-24",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "345"
+  },
+  {
+    "title": "2:1",
+    "year": 2024,
+    "expiry_date": "2026-05-24",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1208284"
+  },
+  {
+    "title": "Veleno",
+    "year": 2021,
+    "expiry_date": "2026-05-24",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "124900"
+  },
+  {
+    "title": "Robot salvaje",
+    "year": 2024,
+    "expiry_date": "2026-05-25",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "1184918"
+  },
+  {
+    "title": "The Road",
+    "year": 2009,
+    "expiry_date": "2026-05-25",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "20766"
+  },
+  {
+    "title": "Pig",
+    "year": 2021,
+    "expiry_date": "2026-05-25",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "635731"
+  },
+  {
+    "title": "G.I. Joe - Geheimauftrag Cobra",
+    "year": 2009,
+    "expiry_date": "2026-05-25",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "14869"
+  },
+  {
+    "title": "Ubriaco d'amore",
+    "year": 2002,
+    "expiry_date": "2026-05-25",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "8051"
+  },
+  {
+    "title": "King of the Hill",
+    "year": 1997,
+    "expiry_date": "2026-05-26",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "2122"
+  },
+  {
+    "title": "Welcome to Wrexham",
+    "year": 2022,
+    "expiry_date": "2026-05-26",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "126929"
+  },
+  {
+    "title": "Once Upon a Time... in Hollywood",
+    "year": 2019,
+    "expiry_date": "2026-05-26",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "466272"
+  },
+  {
+    "title": "Jackdaw",
+    "year": 2024,
+    "expiry_date": "2026-05-26",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1081680"
+  },
+  {
+    "title": "Les Évadés",
+    "year": 1994,
+    "expiry_date": "2026-05-26",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "278"
+  },
+  {
+    "title": "Last Looks",
+    "year": 2022,
+    "expiry_date": "2026-05-26",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "557946"
+  },
+  {
+    "title": "Afraid",
+    "year": 2024,
+    "expiry_date": "2026-05-27",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1062215"
+  },
+  {
+    "title": "The Witch",
+    "year": 2015,
+    "expiry_date": "2026-05-27",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "310131"
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "expiry_date": "2026-05-27",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "329"
+  },
+  {
+    "title": "Licorice Pizza",
+    "year": 2021,
+    "expiry_date": "2026-05-27",
+    "type": "movie",
+    "platform": "MUBI",
+    "tmdb_id": "718032"
+  },
+  {
+    "title": "A Knight's Tale",
+    "year": 2001,
+    "expiry_date": "2026-05-27",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "9476"
+  },
+  {
+    "title": "Control",
+    "year": 2022,
+    "expiry_date": "2026-05-27",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "986088"
+  },
+  {
+    "title": "Il corpo",
+    "year": 2024,
+    "expiry_date": "2026-05-27",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1198877"
+  },
+  {
+    "title": "The Social Network",
+    "year": 2010,
+    "expiry_date": "2026-05-28",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "37799"
+  },
+  {
+    "title": "Per vincere domani - The Karate Kid",
+    "year": 1984,
+    "expiry_date": "2026-05-28",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1885"
+  },
+  {
+    "title": "Subservience",
+    "year": 2024,
+    "expiry_date": "2026-05-29",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1064028"
+  },
+  {
+    "title": "28 Days Later",
+    "year": 2002,
+    "expiry_date": "2026-05-29",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "170"
+  },
+  {
+    "title": "Kill Bill : Volume 1",
+    "year": 2003,
+    "expiry_date": "2026-05-29",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "24"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "expiry_date": "2026-05-29",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "500"
+  },
+  {
+    "title": "Jackie Brown",
+    "year": 1997,
+    "expiry_date": "2026-05-29",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "184"
+  },
+  {
+    "title": "Blue Valentine",
+    "year": 2010,
+    "expiry_date": "2026-05-29",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "46705"
+  },
+  {
+    "title": "El mundo es nuestro",
+    "year": 2012,
+    "expiry_date": "2026-05-30",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "115655"
+  },
+  {
+    "title": "El Justiciero: Capítulo Final",
+    "year": 2023,
+    "expiry_date": "2026-05-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "926393"
+  },
+  {
+    "title": "Gladiador II",
+    "year": 2024,
+    "expiry_date": "2026-05-30",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "558449"
+  },
+  {
+    "title": "The Lego Batman Movie",
+    "year": 2017,
+    "expiry_date": "2026-05-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "324849"
+  },
+  {
+    "title": "The Matrix Reloaded",
+    "year": 2003,
+    "expiry_date": "2026-05-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "604"
+  },
+  {
+    "title": "Death Proof",
+    "year": 2007,
+    "expiry_date": "2026-05-30",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1991"
+  },
+  {
+    "title": "Thelma et Louise",
+    "year": 1991,
+    "expiry_date": "2026-05-30",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "1541"
+  },
+  {
+    "title": "Origen",
+    "year": 2010,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "27205"
+  },
+  {
+    "title": "Mortal Kombat",
+    "year": 2021,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "460465"
+  },
+  {
+    "title": "La ciudad de las estrellas (La La Land)",
+    "year": 2016,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "313369"
+  },
+  {
+    "title": "Chicago Med",
+    "year": 2015,
+    "expiry_date": "2026-05-31",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "62650"
+  },
+  {
+    "title": "Harry Potter y la piedra filosofal",
+    "year": 2001,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "671"
+  },
+  {
+    "title": "Recuerdos perversos",
+    "year": 2007,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "38410"
+  },
+  {
+    "title": "La lista de Schindler",
+    "year": 1993,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "424"
+  },
+  {
+    "title": "Malditos bastardos",
+    "year": 2009,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "16869"
+  },
+  {
+    "title": "El show de Truman",
+    "year": 1998,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "37165"
+  },
+  {
+    "title": "El indomable Will Hunting",
+    "year": 1997,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "489"
+  },
+  {
+    "title": "Pulp Fiction: Tiempos violentos",
+    "year": 1994,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "680"
+  },
+  {
+    "title": "Super 8",
+    "year": 2011,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "37686"
+  },
+  {
+    "title": "American gangster",
+    "year": 2007,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "4982"
+  },
+  {
+    "title": "Perdidos en Tokio",
+    "year": 2003,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "153"
+  },
+  {
+    "title": "El príncipe de Egipto",
+    "year": 1998,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "9837"
+  },
+  {
+    "title": "Terminator",
+    "year": 1984,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "218"
+  },
+  {
+    "title": "No es país para viejos",
+    "year": 2007,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "6977"
+  },
+  {
+    "title": "Gran Torino",
+    "year": 2008,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "13223"
+  },
+  {
+    "title": "El gran Lebowski",
+    "year": 1998,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "115"
+  },
+  {
+    "title": "Naruto Shippuden",
+    "year": 2007,
+    "expiry_date": "2026-05-31",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "31910"
+  },
+  {
+    "title": "Blade Runner",
+    "year": 1982,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "78"
+  },
+  {
+    "title": "El precio del poder",
+    "year": 1983,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "111"
+  },
+  {
+    "title": "Casino Royale",
+    "year": 2006,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "36557"
+  },
+  {
+    "title": "Ex Máquina",
+    "year": 2015,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "264660"
+  },
+  {
+    "title": "Districte 9",
+    "year": 2009,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "17654"
+  },
+  {
+    "title": "Top Gun: Ídolos del aire",
+    "year": 1986,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "744"
+  },
+  {
+    "title": "Guerra Mundial Z",
+    "year": 2013,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "72190"
+  },
+  {
+    "title": "Ocean's Eleven. Hagan juego",
+    "year": 2001,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "161"
+  },
+  {
+    "title": "Cuando Harry encontró a Sally",
+    "year": 1989,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "639"
+  },
+  {
+    "title": "El club de los cinco",
+    "year": 1985,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "2108"
+  },
+  {
+    "title": "007: Operación Skyfall",
+    "year": 2012,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "37724"
+  },
+  {
+    "title": "Mysterious Skin (Oscura inocencia)",
+    "year": 2005,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "MUBI",
+    "tmdb_id": "11171"
+  },
+  {
+    "title": "Cuando Harry encontró a Sally",
+    "year": 1989,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "MUBI",
+    "tmdb_id": "639"
+  },
+  {
+    "title": "American Gods",
+    "year": 2017,
+    "expiry_date": "2026-05-31",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "46639"
+  },
+  {
+    "title": "Back to the Future",
+    "year": 1985,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "105"
+  },
+  {
+    "title": "Contact",
+    "year": 1997,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "686"
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "115"
+  },
+  {
+    "title": "The Game",
+    "year": 1997,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "2649"
+  },
+  {
+    "title": "Casino",
+    "year": 1995,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "524"
+  },
+  {
+    "title": "The Ten Commandments",
+    "year": 1956,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "6844"
+  },
+  {
+    "title": "Legally Blonde",
+    "year": 2001,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "8835"
+  },
+  {
+    "title": "Stargate",
+    "year": 1994,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "2164"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "13"
+  },
+  {
+    "title": "The Birdcage",
+    "year": 1996,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "11000"
+  },
+  {
+    "title": "The Lego Movie",
+    "year": 2014,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "137106"
+  },
+  {
+    "title": "Major League",
+    "year": 1989,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "9942"
+  },
+  {
+    "title": "Mrs. Doubtfire",
+    "year": 1993,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "788"
+  },
+  {
+    "title": "Independence Day",
+    "year": 1996,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "602"
+  },
+  {
+    "title": "Tinker Tailor Soldier Spy",
+    "year": 2011,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "49517"
+  },
+  {
+    "title": "Kingpin",
+    "year": 1996,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "11543"
+  },
+  {
+    "title": "Night at the Museum",
+    "year": 2006,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1593"
+  },
+  {
+    "title": "Collateral",
+    "year": 2004,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "1538"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "year": 2006,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "591"
+  },
+  {
+    "title": "The Apartment",
+    "year": 1960,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "284"
+  },
+  {
+    "title": "Mission: Impossible",
+    "year": 1996,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "954"
+  },
+  {
+    "title": "Sunset Boulevard",
+    "year": 1950,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "599"
+  },
+  {
+    "title": "Sew Torn",
+    "year": 2025,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1046758"
+  },
+  {
+    "title": "Chicago Fire",
+    "year": 2012,
+    "expiry_date": "2026-05-31",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "44006"
+  },
+  {
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "335984"
+  },
+  {
+    "title": "Chicago P.D.",
+    "year": 2014,
+    "expiry_date": "2026-05-31",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "58841"
+  },
+  {
+    "title": "Thief",
+    "year": 1981,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "11524"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "13"
+  },
+  {
+    "title": "Spaceballs",
+    "year": 1987,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "957"
+  },
+  {
+    "title": "American Fiction",
+    "year": 2023,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1056360"
+  },
+  {
+    "title": "Roald Dahl's Matilda the Musical",
+    "year": 2022,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "668482"
+  },
+  {
+    "title": "No Time to Die",
+    "year": 2021,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "370172"
+  },
+  {
+    "title": "Love Lies Bleeding",
+    "year": 2024,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "948549"
+  },
+  {
+    "title": "Despicable Me",
+    "year": 2010,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "20352"
+  },
+  {
+    "title": "A Man for All Seasons",
+    "year": 1966,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "874"
+  },
+  {
+    "title": "Minions",
+    "year": 2015,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "211672"
+  },
+  {
+    "title": "The Dreamers",
+    "year": 2003,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "MUBI",
+    "tmdb_id": "1278"
+  },
+  {
+    "title": "Spectre",
+    "year": 2015,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "206647"
+  },
+  {
+    "title": "Hunger Games",
+    "year": 2012,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "70160"
+  },
+  {
+    "title": "Les Infiltrés",
+    "year": 2006,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1422"
+  },
+  {
+    "title": "Les Infiltrés",
+    "year": 2006,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "1422"
+  },
+  {
+    "title": "John Wick",
+    "year": 2014,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "245891"
+  },
+  {
+    "title": "Le Secret de Térabithia",
+    "year": 2007,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "1265"
+  },
+  {
+    "title": "Quantum of Solace",
+    "year": 2008,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "10764"
+  },
+  {
+    "title": "Hunger Games : L'Embrasement",
+    "year": 2013,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "101299"
+  },
+  {
+    "title": "John Wick : Parabellum",
+    "year": 2019,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "458156"
+  },
+  {
+    "title": "John Wick : Chapitre 2",
+    "year": 2017,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "324552"
+  },
+  {
+    "title": "Hunger Games : La Révolte - Partie 1",
+    "year": 2014,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "131631"
+  },
+  {
+    "title": "Hero Corp",
+    "year": 2008,
+    "expiry_date": "2026-05-31",
+    "type": "tv",
+    "platform": "HBO Max",
+    "tmdb_id": "21766"
+  },
+  {
+    "title": "Jumanji",
+    "year": 1995,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "8844"
+  },
+  {
+    "title": "Azur et Asmar",
+    "year": 2006,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "19026"
+  },
+  {
+    "title": "Missions",
+    "year": 2017,
+    "expiry_date": "2026-05-31",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "71969"
+  },
+  {
+    "title": "Roh",
+    "year": 2020,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "641548"
+  },
+  {
+    "title": "Paprika",
+    "year": 2006,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "4977"
+  },
+  {
+    "title": "Peter Pan",
+    "year": 2003,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "10601"
+  },
+  {
+    "title": "Passengers",
+    "year": 2016,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "274870"
+  },
+  {
+    "title": "Herz aus Stahl",
+    "year": 2014,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "228150"
+  },
+  {
+    "title": "Black Hawk Down",
+    "year": 2001,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "855"
+  },
+  {
+    "title": "2 Guns",
+    "year": 2013,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "136400"
+  },
+  {
+    "title": "Die etwas anderen Cops",
+    "year": 2010,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "27581"
+  },
+  {
+    "title": "Chappie",
+    "year": 2015,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "198184"
+  },
+  {
+    "title": "Alexander der Große",
+    "year": 1956,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "42668"
+  },
+  {
+    "title": "Paulus, der Apostel Christi",
+    "year": 2018,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "476968"
+  },
+  {
+    "title": "Rules of Engagement",
+    "year": 2007,
+    "expiry_date": "2026-05-31",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "2755"
+  },
+  {
+    "title": "Journey's End",
+    "year": 2017,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "438259"
+  },
+  {
+    "title": "Beyond the Front Line - Kampf um Karelien",
+    "year": 2004,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "29436"
+  },
+  {
+    "title": "Besser Welt als Nie",
+    "year": 2022,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "988089"
+  },
+  {
+    "title": "Die Liste",
+    "year": 2010,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "41180"
+  },
+  {
+    "title": "Hancock",
+    "year": 2008,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "8960"
+  },
+  {
+    "title": "Das Netz",
+    "year": 1995,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1642"
+  },
+  {
+    "title": "Thelma & Louise",
+    "year": 1991,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1541"
+  },
+  {
+    "title": "How to Be Single - Welcome to the Party",
+    "year": 2016,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "259694"
+  },
+  {
+    "title": "Snowden",
+    "year": 2016,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "MUBI",
+    "tmdb_id": "302401"
+  },
+  {
+    "title": "I tre moschettieri - D'Artagnan",
+    "year": 2023,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "796185"
+  },
+  {
+    "title": "Risvegli",
+    "year": 1990,
+    "expiry_date": "2026-05-31",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "11005"
+  },
+  {
+    "title": "Langosta",
+    "year": 2015,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Filmin",
+    "tmdb_id": "254320"
+  },
+  {
+    "title": "Recuerdos perversos",
+    "year": 2007,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "38410"
+  },
+  {
+    "title": "Chicago Fire",
+    "year": 2012,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "44006"
+  },
+  {
+    "title": "Alguien voló sobre el nido del cuco",
+    "year": 1975,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "510"
+  },
+  {
+    "title": "American gangster",
+    "year": 2007,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "4982"
+  },
+  {
+    "title": "Chicago Med",
+    "year": 2015,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "62650"
+  },
+  {
+    "title": "Terminator",
+    "year": 1984,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "218"
+  },
+  {
+    "title": "El color surgido del espacio",
+    "year": 2020,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "548473"
+  },
+  {
+    "title": "La decisión de Anne",
+    "year": 2009,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "10024"
+  },
+  {
+    "title": "Batman: La Serie Animada",
+    "year": 1992,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "HBO Max",
+    "tmdb_id": "2098"
+  },
+  {
+    "title": "La loca historia de las galaxias",
+    "year": 1987,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "957"
+  },
+  {
+    "title": "Antes del atardecer",
+    "year": 2004,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "80"
+  },
+  {
+    "title": "Mula",
+    "year": 2018,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "504172"
+  },
+  {
+    "title": "Los Picapiedra",
+    "year": 1960,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "HBO Max",
+    "tmdb_id": "1996"
+  },
+  {
+    "title": "New Amsterdam",
+    "year": 2018,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "80350"
+  },
+  {
+    "title": "Muñeco diabólico",
+    "year": 1988,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "10585"
+  },
+  {
+    "title": "Ley y orden: UVE",
+    "year": 1999,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "2734"
+  },
+  {
+    "title": "Cuando Harry encontró a Sally",
+    "year": 1989,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "639"
+  },
+  {
+    "title": "Juerga hasta el fin",
+    "year": 2013,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "109414"
+  },
+  {
+    "title": "Thelma y Louise",
+    "year": 1991,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1541"
+  },
+  {
+    "title": "Argo",
+    "year": 2012,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "68734"
+  },
+  {
+    "title": "La Liga de la Justicia: Crisis en dos tierras",
+    "year": 2010,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "30061"
+  },
+  {
+    "title": "Terminator: Salvation",
+    "year": 2009,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "534"
+  },
+  {
+    "title": "El imperio del sol",
+    "year": 1987,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "10110"
+  },
+  {
+    "title": "Ladrón",
+    "year": 1981,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "11524"
+  },
+  {
+    "title": "El corredor del laberinto",
+    "year": 2014,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "198663"
+  },
+  {
+    "title": "Tomb Raider, las aventuras de Lara Croft",
+    "year": 2018,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "338970"
+  },
+  {
+    "title": "Noche en el museo",
+    "year": 2006,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1593"
+  },
+  {
+    "title": "El gran showman",
+    "year": 2017,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "316029"
+  },
+  {
+    "title": "La Liga de la Justicia: La paradoja del tiempo",
+    "year": 2013,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "183011"
+  },
+  {
+    "title": "Relic",
+    "year": 2020,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "539181"
+  },
+  {
+    "title": "The Devil Wears Prada",
+    "year": 2006,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "350"
+  },
+  {
+    "title": "Family Guy",
+    "year": 1999,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "1434"
+  },
+  {
+    "title": "Bob's Burgers",
+    "year": 2011,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "32726"
+  },
+  {
+    "title": "The Simpsons",
+    "year": 1989,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "456"
+  },
+  {
+    "title": "The Mummy",
+    "year": 1999,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "564"
+  },
+  {
+    "title": "Weeds",
+    "year": 2005,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "186"
+  },
+  {
+    "title": "GoodFellas",
+    "year": 1990,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "769"
+  },
+  {
+    "title": "Shutter Island",
+    "year": 2010,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "11324"
+  },
+  {
+    "title": "There's Something About Mary",
+    "year": 1998,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "544"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "857"
+  },
+  {
+    "title": "All the President's Men",
+    "year": 1976,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "891"
+  },
+  {
+    "title": "Ash vs Evil Dead",
+    "year": 2015,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "62264"
+  },
+  {
+    "title": "Harold & Kumar Go to White Castle",
+    "year": 2004,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "11282"
+  },
+  {
+    "title": "Murder, She Wrote",
+    "year": 1984,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "484"
+  },
+  {
+    "title": "Memento",
+    "year": 2000,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "77"
+  },
+  {
+    "title": "Twelve Monkeys",
+    "year": 1995,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "63"
+  },
+  {
+    "title": "The Goonies",
+    "year": 1985,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "9340"
+  },
+  {
+    "title": "Memories of Murder",
+    "year": 2003,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "11423"
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "98"
+  },
+  {
+    "title": "School of Rock",
+    "year": 2003,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "1584"
+  },
+  {
+    "title": "Under the Silver Lake",
+    "year": 2018,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "396461"
+  },
+  {
+    "title": "Galaxy Quest",
+    "year": 1999,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "926"
+  },
+  {
+    "title": "Green Card",
+    "year": 1990,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "12157"
+  },
+  {
+    "title": "Twister",
+    "year": 1996,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "664"
+  },
+  {
+    "title": "The Rock",
+    "year": 1996,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "9802"
+  },
+  {
+    "title": "The Place Beyond the Pines",
+    "year": 2013,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "97367"
+  },
+  {
+    "title": "Chinatown",
+    "year": 1974,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "829"
+  },
+  {
+    "title": "Warehouse 13",
+    "year": 2009,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "15819"
+  },
+  {
+    "title": "Little House on the Prairie",
+    "year": 1974,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1781"
+  },
+  {
+    "title": "Krisha",
+    "year": 2016,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "323929"
+  },
+  {
+    "title": "Gangs of New York",
+    "year": 2002,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "3131"
+  },
+  {
+    "title": "Crazy Rich Asians",
+    "year": 2018,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "455207"
+  },
+  {
+    "title": "Foyle's War",
+    "year": 2002,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "3163"
+  },
+  {
+    "title": "Predator",
+    "year": 1987,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "106"
+  },
+  {
+    "title": "The Sandlot",
+    "year": 1993,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "11528"
+  },
+  {
+    "title": "Mindhunters",
+    "year": 2004,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "16617"
+  },
+  {
+    "title": "Uncut Gems",
+    "year": 2019,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "473033"
+  },
+  {
+    "title": "Big Trouble in Little China",
+    "year": 1986,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "6978"
+  },
+  {
+    "title": "Saltburn",
+    "year": 2023,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "930564"
+  },
+  {
+    "title": "Blue Mountain State",
+    "year": 2010,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "31941"
+  },
+  {
+    "title": "Godfather of Harlem",
+    "year": 2019,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "79086"
+  },
+  {
+    "title": "Transformers",
+    "year": 2007,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "1858"
+  },
+  {
+    "title": "Billy Elliot",
+    "year": 2000,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "71"
+  },
+  {
+    "title": "Hot Rod",
+    "year": 2007,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "10074"
+  },
+  {
+    "title": "Vera",
+    "year": 2011,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "39185"
+  },
+  {
+    "title": "Dances with Wolves",
+    "year": 1990,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "581"
+  },
+  {
+    "title": "Into the Badlands",
+    "year": 2015,
+    "expiry_date": "2026-06-01",
+    "type": "tv",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "47450"
+  },
+  {
+    "title": "Speed",
+    "year": 1994,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "fuboTV",
+    "tmdb_id": "1637"
+  },
+  {
+    "title": "Escape from New York",
+    "year": 1981,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1103"
+  },
+  {
+    "title": "Top Gun",
+    "year": 1986,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "744"
+  },
+  {
+    "title": "Pitch Perfect",
+    "year": 2012,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "114150"
+  },
+  {
+    "title": "Last Days on Mars",
+    "year": 2013,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "190847"
+  },
+  {
+    "title": "20 Tage in Mariupol",
+    "year": 2023,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1058616"
+  },
+  {
+    "title": "The Pez Outlaw",
+    "year": 2022,
+    "expiry_date": "2026-06-01",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "934222"
+  },
+  {
+    "title": "Los que se quedan",
+    "year": 2023,
+    "expiry_date": "2026-06-02",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "840430"
+  },
+  {
+    "title": "Top Gun: Ídolos del aire",
+    "year": 1986,
+    "expiry_date": "2026-06-02",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "744"
+  },
+  {
+    "title": "The Holiday (Vacaciones)",
+    "year": 2006,
+    "expiry_date": "2026-06-02",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1581"
+  },
+  {
+    "title": "Elvis",
+    "year": 2022,
+    "expiry_date": "2026-06-02",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "614934"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "expiry_date": "2026-06-02",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "38"
+  },
+  {
+    "title": "Für immer Adaline",
+    "year": 2015,
+    "expiry_date": "2026-06-02",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "293863"
+  },
+  {
+    "title": "Maxxxine",
+    "year": 2024,
+    "expiry_date": "2026-06-03",
+    "type": "movie",
+    "platform": "HBO Max",
+    "tmdb_id": "1023922"
+  },
+  {
+    "title": "The L Word",
+    "year": 2004,
+    "expiry_date": "2026-06-03",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "3475"
+  },
+  {
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "expiry_date": "2026-06-03",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "640"
+  },
+  {
+    "title": "Knives Out - Mord ist Familiensache",
+    "year": 2019,
+    "expiry_date": "2026-06-03",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "546554"
+  },
+  {
+    "title": "Dragon Ball Z Kai",
+    "year": 2009,
+    "expiry_date": "2026-06-04",
+    "type": "tv",
+    "platform": "fuboTV",
+    "tmdb_id": "61709"
+  },
+  {
+    "title": "Atrápame si puedes",
+    "year": 2002,
+    "expiry_date": "2026-06-04",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "640"
+  },
+  {
+    "title": "Ghost",
+    "year": 1990,
+    "expiry_date": "2026-06-04",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "251"
+  },
+  {
+    "title": "Batman v Superman : L'Aube de la Justice",
+    "year": 2016,
+    "expiry_date": "2026-06-04",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "209112"
+  },
+  {
+    "title": "Transformers",
+    "year": 2007,
+    "expiry_date": "2026-06-04",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1858"
+  },
+  {
+    "title": "Liebe zwischen den Meeren",
+    "year": 2016,
+    "expiry_date": "2026-06-04",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "283552"
+  },
+  {
+    "title": "La ragazza della palude",
+    "year": 2022,
+    "expiry_date": "2026-06-04",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "682507"
+  },
+  {
+    "title": "Perdida",
+    "year": 2014,
+    "expiry_date": "2026-06-05",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "210577"
+  },
+  {
+    "title": "Fuego contra fuego",
+    "year": 1995,
+    "expiry_date": "2026-06-05",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "949"
+  },
+  {
+    "title": "Anora",
+    "year": 2024,
+    "expiry_date": "2026-06-05",
+    "type": "movie",
+    "platform": "SkyShowtime",
+    "tmdb_id": "1064213"
+  },
+  {
+    "title": "It: Capítulo 2",
+    "year": 2019,
+    "expiry_date": "2026-06-05",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "474350"
+  },
+  {
+    "title": "Time Out",
+    "year": 2011,
+    "expiry_date": "2026-06-05",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "420977"
+  },
+  {
+    "title": "Tigerland",
+    "year": 2000,
+    "expiry_date": "2026-06-05",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "10687"
+  },
+  {
+    "title": "Unsane: Ausgeliefert",
+    "year": 2018,
+    "expiry_date": "2026-06-05",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "467660"
+  },
+  {
+    "title": "Stay - Nel labirinto della mente",
+    "year": 2005,
+    "expiry_date": "2026-06-05",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "8066"
+  },
+  {
+    "title": "Arrival",
+    "year": 2016,
+    "expiry_date": "2026-06-05",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "329865"
+  },
+  {
+    "title": "School of Rock",
+    "year": 2003,
+    "expiry_date": "2026-06-05",
+    "type": "movie",
+    "platform": "Netflix",
+    "tmdb_id": "1584"
+  },
+  {
+    "title": "Silencio",
+    "year": 2017,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "68730"
+  },
+  {
+    "title": "El médico",
+    "year": 2013,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "169881"
+  },
+  {
+    "title": "El pianista",
+    "year": 2002,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "423"
+  },
+  {
+    "title": "Vértigo",
+    "year": 2022,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "985939"
+  },
+  {
+    "title": "Perdida",
+    "year": 2014,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "210577"
+  },
+  {
+    "title": "Better Man: La historia de Robbie Williams",
+    "year": 2024,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "799766"
+  },
+  {
+    "title": "Fuego contra fuego",
+    "year": 1995,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "949"
+  },
+  {
+    "title": "Infiel",
+    "year": 2002,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "2251"
+  },
+  {
+    "title": "El código Da Vinci",
+    "year": 2006,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "591"
+  },
+  {
+    "title": "In Time",
+    "year": 2011,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "420977"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "62"
+  },
+  {
+    "title": "School of Rock",
+    "year": 2003,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "1584"
+  },
+  {
+    "title": "American Beauty",
+    "year": 1999,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "14"
+  },
+  {
+    "title": "L'arte di vincere",
+    "year": 2011,
+    "expiry_date": "2026-06-06",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "60308"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "expiry_date": "2026-06-07",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "857"
+  },
+  {
+    "title": "The Adjustment Bureau",
+    "year": 2011,
+    "expiry_date": "2026-06-07",
+    "type": "movie",
+    "platform": "Amazon Prime Video",
+    "tmdb_id": "38050"
   }
 ]
