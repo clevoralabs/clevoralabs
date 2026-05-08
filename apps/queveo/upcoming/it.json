@@ -1,65 +1,5 @@
 [
   {
-    "tmdb_id": 1667493,
-    "title": "FIFA '94: Il grande ritorno del Brasile",
-    "media_type": "movie",
-    "release_date": "2026-05-07",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm2865568",
-    "justwatch_url": "/it/film/fifa-94-il-grande-ritorno-del-brasile"
-  },
-  {
-    "tmdb_id": 1630423,
-    "title": "My Dearest Assassin",
-    "media_type": "movie",
-    "release_date": "2026-05-07",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm2862329",
-    "justwatch_url": "/it/film/my-dearest-assassin"
-  },
-  {
-    "tmdb_id": 1330021,
-    "title": "Creature luminose",
-    "media_type": "movie",
-    "release_date": "2026-05-08",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm1941661",
-    "justwatch_url": "/it/film/remarkably-bright-creatures"
-  },
-  {
-    "tmdb_id": 303143,
-    "title": "La mia nobile nemica - Stagione 1",
-    "media_type": "tv",
-    "release_date": "2026-05-08",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tss532773",
-    "justwatch_url": "/it/serie-tv/my-royal-nemesis/stagione-1"
-  },
-  {
-    "tmdb_id": 1317448,
-    "title": "Non è un paese per single",
-    "media_type": "movie",
-    "release_date": "2026-05-08",
-    "year": 2026,
-    "platforms": [
-      "Amazon Prime Video"
-    ],
-    "justwatch_id": "tm1970786",
-    "justwatch_url": "/it/film/non-e-un-paese-per-single"
-  },
-  {
     "tmdb_id": 1658982,
     "title": "The Roast of Kevin Hart",
     "media_type": "movie",
@@ -84,6 +24,18 @@
     "justwatch_url": "/it/serie-tv/devil-may-cry-0/stagione-2"
   },
   {
+    "tmdb_id": 1620034,
+    "title": "Marty, Life Is Short",
+    "media_type": "movie",
+    "release_date": "2026-05-11",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tm1947924",
+    "justwatch_url": "/it/film/marty-life-is-short"
+  },
+  {
     "tmdb_id": 254442,
     "title": "Pop Culture Jeopardy! - Stagione 2",
     "media_type": "tv",
@@ -94,18 +46,6 @@
     ],
     "justwatch_id": "tss538031",
     "justwatch_url": "/it/serie-tv/pop-culture-jeopardy/stagione-2"
-  },
-  {
-    "tmdb_id": 1620034,
-    "title": "Marty, Life Is Short",
-    "media_type": "movie",
-    "release_date": "2026-05-12",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm1947924",
-    "justwatch_url": "/it/film/marty-life-is-short"
   },
   {
     "tmdb_id": 318449,
@@ -156,6 +96,30 @@
     "justwatch_url": "/it/serie-tv/nemesis-2026-1/stagione-1"
   },
   {
+    "tmdb_id": 1628367,
+    "title": "Kartavya",
+    "media_type": "movie",
+    "release_date": "2026-05-15",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tm2874238",
+    "justwatch_url": "/it/film/kartavya"
+  },
+  {
+    "tmdb_id": 1684226,
+    "title": "La sposa dell'anno",
+    "media_type": "movie",
+    "release_date": "2026-05-15",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tm2874157",
+    "justwatch_url": "/it/film/la-sposa-dellanno"
+  },
+  {
     "tmdb_id": 1662317,
     "title": "The Crash: Incidente o omicidio?",
     "media_type": "movie",
@@ -178,18 +142,6 @@
     ],
     "justwatch_id": "tss460278",
     "justwatch_url": "/it/serie-tv/the-wonderfools/stagione-1"
-  },
-  {
-    "tmdb_id": 1682878,
-    "title": "Countdown: Rousey vs. Carano",
-    "media_type": "movie",
-    "release_date": "2026-05-16",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm2872836",
-    "justwatch_url": "/it/film/countdown-rousey-vs-carano"
   },
   {
     "tmdb_id": 1638300,
@@ -298,6 +250,18 @@
     ],
     "justwatch_id": "tss493840",
     "justwatch_url": "/it/serie-tv/inspira-espira-uccidi/stagione-2"
+  },
+  {
+    "tmdb_id": 312493,
+    "title": "Viral Hit - Stagione 1",
+    "media_type": "tv",
+    "release_date": "2026-05-28",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tss551890",
+    "justwatch_url": "/it/serie-tv/viral-hit-2026/stagione-1"
   },
   {
     "tmdb_id": 1232667,

@@ -1,63 +1,15 @@
 [
   {
-    "tmdb_id": 1630423,
-    "title": "My Dearest Assassin",
-    "media_type": "movie",
-    "release_date": "2026-05-07",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm2862329",
-    "justwatch_url": "/es/pelicula/my-dearest-assassin"
-  },
-  {
-    "tmdb_id": 1667493,
-    "title": "USA 94: Brazil's Return to Glory",
-    "media_type": "movie",
-    "release_date": "2026-05-07",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm2865568",
-    "justwatch_url": "/es/pelicula/usa-94-brazils-return-to-glory"
-  },
-  {
-    "tmdb_id": 303143,
-    "title": "My Royal Nemesis - Temporada 1",
+    "tmdb_id": 319048,
+    "title": "K-Todo - Temporada 1",
     "media_type": "tv",
-    "release_date": "2026-05-08",
+    "release_date": "2026-05-09",
     "year": 2026,
     "platforms": [
-      "Netflix"
+      "HBO Max"
     ],
-    "justwatch_id": "tss532773",
-    "justwatch_url": "/es/serie/my-royal-nemesis/temporada-1"
-  },
-  {
-    "tmdb_id": 1317448,
-    "title": "No es país para solteros",
-    "media_type": "movie",
-    "release_date": "2026-05-08",
-    "year": 2026,
-    "platforms": [
-      "Amazon Prime Video"
-    ],
-    "justwatch_id": "tm1970786",
-    "justwatch_url": "/es/pelicula/no-place-to-be-single"
-  },
-  {
-    "tmdb_id": 1330021,
-    "title": "Remarkably Bright Creatures",
-    "media_type": "movie",
-    "release_date": "2026-05-08",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm1941661",
-    "justwatch_url": "/es/pelicula/remarkably-bright-creatures"
+    "justwatch_id": "tss564670",
+    "justwatch_url": "/es/serie/k-todo/temporada-1"
   },
   {
     "tmdb_id": 1658982,
@@ -84,6 +36,30 @@
     "justwatch_url": "/es/serie/devil-may-cry-0/temporada-2"
   },
   {
+    "tmdb_id": 1620034,
+    "title": "Marty, Life Is Short: El documental",
+    "media_type": "movie",
+    "release_date": "2026-05-11",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tm1947924",
+    "justwatch_url": "/es/pelicula/marty-life-is-short"
+  },
+  {
+    "tmdb_id": 256695,
+    "title": "Regular Show: Lost Tapes - Temporada 1",
+    "media_type": "tv",
+    "release_date": "2026-05-11",
+    "year": 2026,
+    "platforms": [
+      "HBO Max"
+    ],
+    "justwatch_id": "tss468951",
+    "justwatch_url": "/es/serie/regular-show-lost-tapes/temporada-1"
+  },
+  {
     "tmdb_id": 254442,
     "title": "¡Peligro de la cultura pop! - Temporada 2",
     "media_type": "tv",
@@ -94,18 +70,6 @@
     ],
     "justwatch_id": "tss538031",
     "justwatch_url": "/es/serie/pop-culture-jeopardy/temporada-2"
-  },
-  {
-    "tmdb_id": 1620034,
-    "title": "Marty, Life Is Short",
-    "media_type": "movie",
-    "release_date": "2026-05-12",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm1947924",
-    "justwatch_url": "/es/pelicula/marty-life-is-short"
   },
   {
     "tmdb_id": 318449,
@@ -156,6 +120,30 @@
     "justwatch_url": "/es/serie/nemesis-2026/temporada-1"
   },
   {
+    "tmdb_id": 1684226,
+    "title": "Bride of the Year",
+    "media_type": "movie",
+    "release_date": "2026-05-15",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tm2874157",
+    "justwatch_url": "/es/pelicula/bride-of-the-year"
+  },
+  {
+    "tmdb_id": 1628367,
+    "title": "Kartavya",
+    "media_type": "movie",
+    "release_date": "2026-05-15",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tm2874238",
+    "justwatch_url": "/es/pelicula/kartavya"
+  },
+  {
     "tmdb_id": 1662317,
     "title": "The Crash",
     "media_type": "movie",
@@ -178,18 +166,6 @@
     ],
     "justwatch_id": "tss460278",
     "justwatch_url": "/es/serie/the-wonderfools/temporada-1"
-  },
-  {
-    "tmdb_id": 1682878,
-    "title": "Countdown: Rousey vs. Carano",
-    "media_type": "movie",
-    "release_date": "2026-05-16",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm2872836",
-    "justwatch_url": "/es/pelicula/countdown-rousey-vs-carano"
   },
   {
     "tmdb_id": 1638300,
@@ -298,6 +274,18 @@
     ],
     "justwatch_id": "tss493840",
     "justwatch_url": "/es/serie/mindfulness-para-asesinos/temporada-2"
+  },
+  {
+    "tmdb_id": 312493,
+    "title": "Viral Hit - Temporada 1",
+    "media_type": "tv",
+    "release_date": "2026-05-28",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tss551890",
+    "justwatch_url": "/es/serie/viral-hit-2026/temporada-1"
   },
   {
     "tmdb_id": 1232667,

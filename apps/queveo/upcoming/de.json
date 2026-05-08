@@ -1,65 +1,5 @@
 [
   {
-    "tmdb_id": 1630423,
-    "title": "My Dearest Assassin",
-    "media_type": "movie",
-    "release_date": "2026-05-07",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm2862329",
-    "justwatch_url": "/de/Film/my-dearest-assassin"
-  },
-  {
-    "tmdb_id": 1667493,
-    "title": "USA 94: Brazil's Return to Glory",
-    "media_type": "movie",
-    "release_date": "2026-05-07",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm2865568",
-    "justwatch_url": "/de/Film/usa-94-brazils-return-to-glory"
-  },
-  {
-    "tmdb_id": 1330021,
-    "title": "Das Glück hat acht Arme",
-    "media_type": "movie",
-    "release_date": "2026-05-08",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm1941661",
-    "justwatch_url": "/de/Film/remarkably-bright-creatures"
-  },
-  {
-    "tmdb_id": 303143,
-    "title": "My Royal Nemesis - Staffel 1",
-    "media_type": "tv",
-    "release_date": "2026-05-08",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tss532773",
-    "justwatch_url": "/de/Serie/my-royal-nemesis/Staffel-1"
-  },
-  {
-    "tmdb_id": 1317448,
-    "title": "No Place to be Single",
-    "media_type": "movie",
-    "release_date": "2026-05-08",
-    "year": 2026,
-    "platforms": [
-      "Amazon Prime Video"
-    ],
-    "justwatch_id": "tm1970786",
-    "justwatch_url": "/de/Film/no-place-to-be-single"
-  },
-  {
     "tmdb_id": 1658982,
     "title": "The Roast of Kevin Hart",
     "media_type": "movie",
@@ -84,6 +24,18 @@
     "justwatch_url": "/de/Serie/devil-may-cry-0/Staffel-2"
   },
   {
+    "tmdb_id": 1620034,
+    "title": "Marty, Life Is Short",
+    "media_type": "movie",
+    "release_date": "2026-05-11",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tm1947924",
+    "justwatch_url": "/de/Film/marty-life-is-short"
+  },
+  {
     "tmdb_id": 254442,
     "title": "Pop Culture Jeopardy! - Staffel 2",
     "media_type": "tv",
@@ -94,18 +46,6 @@
     ],
     "justwatch_id": "tss538031",
     "justwatch_url": "/de/Serie/pop-culture-jeopardy/Staffel-2"
-  },
-  {
-    "tmdb_id": 1620034,
-    "title": "Marty, Life Is Short",
-    "media_type": "movie",
-    "release_date": "2026-05-12",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm1947924",
-    "justwatch_url": "/de/Film/marty-life-is-short"
   },
   {
     "tmdb_id": 318449,
@@ -156,6 +96,30 @@
     "justwatch_url": "/de/Serie/nemesis-2026/Staffel-1"
   },
   {
+    "tmdb_id": 1684226,
+    "title": "Bride of the Year",
+    "media_type": "movie",
+    "release_date": "2026-05-15",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tm2874157",
+    "justwatch_url": "/de/Film/bride-of-the-year"
+  },
+  {
+    "tmdb_id": 1628367,
+    "title": "Kartavya",
+    "media_type": "movie",
+    "release_date": "2026-05-15",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tm2874238",
+    "justwatch_url": "/de/Film/kartavya"
+  },
+  {
     "tmdb_id": 1662317,
     "title": "The Crash",
     "media_type": "movie",
@@ -178,18 +142,6 @@
     ],
     "justwatch_id": "tss460278",
     "justwatch_url": "/de/Serie/the-wonderfools/Staffel-1"
-  },
-  {
-    "tmdb_id": 1682878,
-    "title": "Countdown: Rousey vs. Carano",
-    "media_type": "movie",
-    "release_date": "2026-05-16",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm2872836",
-    "justwatch_url": "/de/Film/countdown-rousey-vs-carano"
   },
   {
     "tmdb_id": 1638300,
@@ -298,6 +250,18 @@
     ],
     "justwatch_id": "tss493840",
     "justwatch_url": "/de/Serie/achtsam-morden/Staffel-2"
+  },
+  {
+    "tmdb_id": 312493,
+    "title": "Viral Hit - Staffel 1",
+    "media_type": "tv",
+    "release_date": "2026-05-28",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tss551890",
+    "justwatch_url": "/de/Serie/viral-hit-2026/Staffel-1"
   },
   {
     "tmdb_id": 1232667,

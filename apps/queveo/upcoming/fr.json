@@ -1,63 +1,15 @@
 [
   {
-    "tmdb_id": 1630423,
-    "title": "My Dearest Assassin",
-    "media_type": "movie",
-    "release_date": "2026-05-07",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm2862329",
-    "justwatch_url": "/fr/film/my-dearest-assassin"
-  },
-  {
-    "tmdb_id": 1667493,
-    "title": "USA 94: Brazil's Return to Glory",
-    "media_type": "movie",
-    "release_date": "2026-05-07",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm2865568",
-    "justwatch_url": "/fr/film/usa-94-brazils-return-to-glory"
-  },
-  {
-    "tmdb_id": 1317448,
-    "title": "Amour, Chianti et Tutti Quanti",
-    "media_type": "movie",
-    "release_date": "2026-05-08",
-    "year": 2026,
-    "platforms": [
-      "Amazon Prime Video"
-    ],
-    "justwatch_id": "tm1970786",
-    "justwatch_url": "/fr/film/no-place-to-be-single"
-  },
-  {
-    "tmdb_id": 303143,
-    "title": "My Royal Nemesis - Saison 1",
+    "tmdb_id": 319048,
+    "title": "K-Everything - Saison 1",
     "media_type": "tv",
-    "release_date": "2026-05-08",
+    "release_date": "2026-05-09",
     "year": 2026,
     "platforms": [
-      "Netflix"
+      "HBO Max"
     ],
-    "justwatch_id": "tss532773",
-    "justwatch_url": "/fr/serie/my-royal-nemesis/saison-1"
-  },
-  {
-    "tmdb_id": 1330021,
-    "title": "Remarkably Bright Creatures",
-    "media_type": "movie",
-    "release_date": "2026-05-08",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm1941661",
-    "justwatch_url": "/fr/film/remarkably-bright-creatures"
+    "justwatch_id": "tss564670",
+    "justwatch_url": "/fr/serie/k-everything/saison-1"
   },
   {
     "tmdb_id": 1658982,
@@ -84,6 +36,18 @@
     "justwatch_url": "/fr/serie/rivages/saison-2"
   },
   {
+    "tmdb_id": 1620034,
+    "title": "Martin Short : Une vie XXL",
+    "media_type": "movie",
+    "release_date": "2026-05-11",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tm1947924",
+    "justwatch_url": "/fr/film/marty-life-is-short"
+  },
+  {
     "tmdb_id": 254442,
     "title": "Pop Culture Jeopardy! - Saison 2",
     "media_type": "tv",
@@ -96,16 +60,16 @@
     "justwatch_url": "/fr/serie/pop-culture-jeopardy/saison-2"
   },
   {
-    "tmdb_id": 1620034,
-    "title": "Marty, Life Is Short",
-    "media_type": "movie",
-    "release_date": "2026-05-12",
+    "tmdb_id": 256695,
+    "title": "Regular Show: Lost Tapes - Saison 1",
+    "media_type": "tv",
+    "release_date": "2026-05-11",
     "year": 2026,
     "platforms": [
-      "Netflix"
+      "HBO Max"
     ],
-    "justwatch_id": "tm1947924",
-    "justwatch_url": "/fr/film/marty-life-is-short"
+    "justwatch_id": "tss468951",
+    "justwatch_url": "/fr/serie/regular-show-lost-tapes/saison-1"
   },
   {
     "tmdb_id": 318449,
@@ -156,6 +120,30 @@
     "justwatch_url": "/fr/serie/nemesis-2026/saison-1"
   },
   {
+    "tmdb_id": 1684226,
+    "title": "Bride of the Year",
+    "media_type": "movie",
+    "release_date": "2026-05-15",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tm2874157",
+    "justwatch_url": "/fr/film/bride-of-the-year"
+  },
+  {
+    "tmdb_id": 1628367,
+    "title": "Kartavya",
+    "media_type": "movie",
+    "release_date": "2026-05-15",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tm2874238",
+    "justwatch_url": "/fr/film/kartavya"
+  },
+  {
     "tmdb_id": 1662317,
     "title": "The Crash",
     "media_type": "movie",
@@ -178,18 +166,6 @@
     ],
     "justwatch_id": "tss460278",
     "justwatch_url": "/fr/serie/the-wonderfools/saison-1"
-  },
-  {
-    "tmdb_id": 1682878,
-    "title": "Countdown: Rousey vs. Carano",
-    "media_type": "movie",
-    "release_date": "2026-05-16",
-    "year": 2026,
-    "platforms": [
-      "Netflix"
-    ],
-    "justwatch_id": "tm2872836",
-    "justwatch_url": "/fr/film/countdown-rousey-vs-carano"
   },
   {
     "tmdb_id": 1638300,
@@ -298,6 +274,18 @@
     ],
     "justwatch_id": "tss493840",
     "justwatch_url": "/fr/serie/les-meurtres-zen/saison-2"
+  },
+  {
+    "tmdb_id": 312493,
+    "title": "Viral Hit - Saison 1",
+    "media_type": "tv",
+    "release_date": "2026-05-28",
+    "year": 2026,
+    "platforms": [
+      "Netflix"
+    ],
+    "justwatch_id": "tss551890",
+    "justwatch_url": "/fr/serie/viral-hit-2026/saison-1"
   },
   {
     "tmdb_id": 1232667,
